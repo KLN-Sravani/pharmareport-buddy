@@ -53,6 +53,7 @@ def _numbers(a: AnalysisResult) -> set[str]:
             [walk(x) for x in v]
 
     walk(a.value)
+    walk(a.title)
     for n in a.notes:
         for tok in n.replace("%", " ").replace("(", " ").replace(")", " ").split():
             t = tok.strip("+,.").lstrip("+-")
