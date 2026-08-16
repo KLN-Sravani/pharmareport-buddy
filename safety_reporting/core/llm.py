@@ -1,14 +1,15 @@
 """Thin client for the Lovable AI Gateway (OpenAI-compatible chat completions).
 
-The only place in the system where a model is called. Streaming is used so long
-generations do not sit behind a single silent round trip.
+The only place in the system where a model is called. Streaming is used so a
+long generation does not sit behind one silent round trip.
 """
 
 from __future__ import annotations
 
 import json
 import os
-import urllib.request
+
+import requests
 
 ENDPOINT = "https://ai.gateway.lovable.dev/v1/chat/completions"
 
@@ -31,35 +32,32 @@ def generate(system: str, user: str, model: str, temperature: float = 0.1) -> di
         "temperature": temperature,
         "stream": True,
     }
-    req = urllib.request.Request(
+    resp = requests.post(
         ENDPOINT,
-        data=json.dumps(payload).encode(),
+        json=payload,
         headers={
-            "Content-Type": "application/json",
             "Authorization": f"Bearer {key}",
             "X-Lovable-AIG-SDK": "fetch",
         },
-        method="POST",
+        stream=True,
     )
+    if resp.status_code != 200:
+        raise LLMError(f"gateway {resp.status_code}: {resp.text[:400]}")
+
+    run_id = resp.headers.get("X-Lovable-AIG-Run-ID")
     chunks: list[str] = []
-    try:
-        with urllib.request.urlopen(req) as resp:
-            run_id = resp.headers.get("X-Lovable-AIG-Run-ID")
-            for raw in resp:
-                line = raw.decode("utf-8").strip()
-                if not line.startswith("data:"):
-                    continue
-                data = line[5:].strip()
-                if data == "[DONE]":
-                    break
-                try:
-                    delta = json.loads(data)["choices"][0]["delta"].get("content")
-                except (KeyError, IndexError, json.JSONDecodeError):
-                    continue
-                if delta:
-                    chunks.append(delta)
-    except urllib.error.HTTPError as exc:  # noqa: F821
-        raise LLMError(f"gateway {exc.code}: {exc.read().decode()[:400]}") from exc
+    for raw in resp.iter_lines(decode_unicode=True):
+        if not raw or not raw.startswith("data:"):
+            continue
+        data = raw[5:].strip()
+        if data == "[DONE]":
+            break
+        try:
+            delta = json.loads(data)["choices"][0]["delta"].get("content")
+        except (KeyError, IndexError, json.JSONDecodeError):
+            continue
+        if delta:
+            chunks.append(delta)
 
     text = "".join(chunks).strip()
     if not text:
