@@ -28,7 +28,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ---
 
-## 👤 Human Control & Review Workflow
+### ** 👤 Human Control & Review Workflow**
 
 The pipeline enforces a **Human-in-the-Loop Gate** before any report is finalized:
 
@@ -39,7 +39,7 @@ The pipeline enforces a **Human-in-the-Loop Gate** before any report is finalize
 
 ---
 
-## ⚠️ Known Limitations
+**## ⚠️ Known Limitations**
 
 * **Single-Threaded Section Processing:** Version 0 processes sections sequentially. For multi-report batch processing at scale, an asynchronous worker queue (e.g., `asyncio` or Celery) should be implemented.
 * **Static Schema Mapping:** Column mapping between raw CSV inputs and analytical aggregators is tailored to the Bisoprolol dataset structure; expanding to dynamic schemas requires a configurable schema mapping layer.
