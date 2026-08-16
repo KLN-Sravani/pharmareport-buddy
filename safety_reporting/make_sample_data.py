@@ -111,7 +111,7 @@ def main() -> None:
         age = max(1, min(99, int(rng.gauss(68, 14))))
         sex = weighted([("female", 0.53), ("male", 0.44), ("unknown", 0.03)], rng)
         outcome = weighted(OUTCOMES, rng)
-        n_reactions = 1 if rng.random() < 0.96 else 2  # 1,068 rows total-ish
+        n_reactions = 2 if i % 24 == 0 else 1  # -> 1,068 rows across 1,024 cases
         for _ in range(n_reactions):
             reaction = weighted(REACTIONS, rng)
             fatal = serious and (outcome == "fatal" or reaction == "Death")
