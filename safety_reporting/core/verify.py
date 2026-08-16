@@ -48,6 +48,9 @@ def check(text: str, packet: Packet) -> list[dict]:
             continue
         if re.fullmatch(r"(19|20)\d{2}", raw):
             continue
+        # "15-day alert report" is regulatory terminology, not a data figure
+        if text[m.end() : m.end() + 4].lower().startswith("-day"):
+            continue
         findings.append(
             {
                 "level": "error",

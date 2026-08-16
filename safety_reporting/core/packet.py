@@ -9,6 +9,7 @@ they are only used by the renderer/UI for evidence drill-down.
 from __future__ import annotations
 
 import json
+import re
 from dataclasses import dataclass
 
 from .analyses import AnalysisResult
@@ -42,6 +43,10 @@ def _numbers(a: AnalysisResult) -> set[str]:
             return
         if isinstance(v, (int, float)):
             out.add(f"{v:g}")
+        elif isinstance(v, str):
+            # numbers embedded in labels ("45-64", "2025-03", "75+") are grounded too
+            for tok in re.findall(r"\d+(?:\.\d+)?", v):
+                out.add(f"{float(tok):g}")
         elif isinstance(v, dict):
             [walk(x) for x in v.values()]
         elif isinstance(v, list):
