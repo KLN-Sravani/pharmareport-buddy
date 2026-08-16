@@ -1,0 +1,1068 @@
+safetyreportid,receiptdate,occurcountry,primarysourcecountry,patient_patientonsetage,patient_patientonsetageunit,patient_patientsex,medicinalproduct,drug_characterization,patient_reaction_reactionmeddrapt,patient_reaction_reactionoutcome,serious,seriousnessdeath,seriousnesshospitalization,seriousnesslifethreatening,seriousnessdisabling,seriousnessother,reporttype
+10000002,20250224,united kingdom,,67,801,male,BISOPROLOL FUMARATE,suspect,Hyperkalaemia,recovered/resolved,serious,,1,,,1,spontaneous
+10000002,20250224,italy,,67,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,,,,,spontaneous
+10000008,20240711,united states,,45,801,male,BISOPROLOL FUMARATE,suspect,Atrioventricular block,fatal,serious,1,,,,1,spontaneous
+10000017,20241215,united kingdom,,52,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,,,,,spontaneous
+10000022,20250114,france,,76,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovering/resolving,serious,,,,,,spontaneous
+10000028,20241113,canada,,51,801,female,BISOPROLOL FUMARATE,suspect,Hyperkalaemia,unknown,serious,,1,,1,,spontaneous
+10000037,20250122,canada,,87,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,unknown,serious,,1,,,1,spontaneous
+10000044,20250323,spain,,62,801,female,BISOPROLOL FUMARATE,suspect,Hyperkalaemia,recovered/resolved,serious,,1,,,,spontaneous
+10000052,20240909,united kingdom,,71,801,male,BISOPROLOL FUMARATE,suspect,Bronchospasm,not recovered/not resolved,serious,,1,,,,spontaneous
+10000057,20250109,united states,,77,801,unknown,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved with sequelae,serious,,1,,,,spontaneous
+10000063,20240711,united kingdom,,58,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved with sequelae,serious,,,,,,spontaneous
+10000073,20240701,italy,,51,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,unknown,serious,,1,,,1,spontaneous
+10000081,20250220,united states,,50,801,female,BISOPROLOL FUMARATE,suspect,Atrioventricular block,recovered/resolved,serious,,,,,,other
+10000085,20250616,united kingdom,,43,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovering/resolving,serious,,1,,,1,spontaneous
+10000094,20250507,italy,,78,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,,,,,spontaneous
+10000100,20250304,japan,,49,801,male,BISOPROLOL FUMARATE,suspect,Atrioventricular block,recovered/resolved,serious,,1,,,1,spontaneous
+10000109,20250104,united states,,68,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,unknown,serious,,1,,,,spontaneous
+10000115,20240909,canada,,65,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,not recovered/not resolved,serious,,,,,,report from study
+10000120,20240731,united states,,73,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,not recovered/not resolved,serious,,1,,,,spontaneous
+10000129,20250425,united states,,56,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved with sequelae,serious,,,,,,spontaneous
+10000135,20250202,germany,,56,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,unknown,serious,,1,,,1,spontaneous
+10000140,20240911,united kingdom,,59,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,not recovered/not resolved,serious,,1,,,1,spontaneous
+10000148,20250608,united states,,68,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,not recovered/not resolved,serious,,,,,,spontaneous
+10000157,20240914,australia,,64,801,female,BISOPROLOL FUMARATE,suspect,Atrioventricular block,recovered/resolved,serious,,1,,,1,spontaneous
+10000165,20241123,united kingdom,,48,801,male,BISOPROLOL FUMARATE,suspect,Hyperkalaemia,unknown,serious,,1,1,,,spontaneous
+10000168,20241209,united states,,72,801,male,BISOPROLOL FUMARATE,suspect,Dyspnoea,not recovered/not resolved,serious,,,1,,,other
+10000168,20241209,united states,,72,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,not recovered/not resolved,serious,,1,,,1,spontaneous
+10000179,20250414,australia,,49,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved with sequelae,serious,,1,,,,spontaneous
+10000186,20240722,united states,,74,801,female,BISOPROLOL FUMARATE,suspect,Fall,recovered/resolved,serious,,,,,,spontaneous
+10000192,20240830,united states,,68,801,female,BISOPROLOL FUMARATE,suspect,Syncope,unknown,serious,,1,1,,1,spontaneous
+10000197,20241021,united states,,79,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,unknown,serious,,,,,,spontaneous
+10000204,20250610,united kingdom,,58,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,unknown,serious,,1,,,,spontaneous
+10000214,20250213,italy,,70,801,male,BISOPROLOL FUMARATE,suspect,Headache,unknown,serious,,1,,1,,spontaneous
+10000221,20250606,united states,,89,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,recovering/resolving,serious,,,,,1,spontaneous
+10000224,20241124,germany,,65,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,recovering/resolving,serious,,,,1,1,spontaneous
+10000234,20250204,united kingdom,,80,801,female,BISOPROLOL FUMARATE,suspect,Cardiac failure,recovering/resolving,serious,,,,,,spontaneous
+10000238,20240705,united states,,52,801,male,BISOPROLOL FUMARATE,suspect,Cerebral haemorrhage,recovering/resolving,serious,,,,,,spontaneous
+10000249,20241117,united kingdom,,68,801,female,BISOPROLOL FUMARATE,suspect,Rash,recovered/resolved,serious,,1,,,,spontaneous
+10000255,20250515,australia,,53,801,male,BISOPROLOL FUMARATE,suspect,Dyspnoea,fatal,serious,1,,,1,1,spontaneous
+10000261,20250207,germany,,66,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,,,,,spontaneous
+10000267,20250527,canada,,99,801,female,BISOPROLOL FUMARATE,suspect,Cerebral haemorrhage,fatal,serious,1,,1,,1,spontaneous
+10000273,20250131,united states,,71,801,male,BISOPROLOL FUMARATE,suspect,Bronchospasm,recovered/resolved,serious,,1,,,1,spontaneous
+10000284,20240914,japan,,64,801,male,BISOPROLOL FUMARATE,suspect,Bronchospasm,recovered/resolved with sequelae,serious,,,,,,spontaneous
+10000291,20241129,united states,,65,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,fatal,serious,1,,,,1,spontaneous
+10000298,20241121,japan,,49,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,,,1,1,spontaneous
+10000301,20250304,united states,,70,801,male,BISOPROLOL FUMARATE,suspect,Atrioventricular block,recovered/resolved,serious,,,,,1,spontaneous
+10000308,20240905,united kingdom,,89,801,female,BISOPROLOL FUMARATE,suspect,Syncope,recovered/resolved with sequelae,serious,,,,,,spontaneous
+10000316,20250324,united states,,71,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,not recovered/not resolved,serious,,1,,,,spontaneous
+10000323,20250306,germany,,77,801,male,BISOPROLOL FUMARATE,suspect,Cerebral haemorrhage,unknown,serious,,,,,1,spontaneous
+10000330,20250330,united states,,60,801,male,BISOPROLOL FUMARATE,suspect,Dyspnoea,not recovered/not resolved,serious,,,,,1,spontaneous
+10000337,20240701,france,,69,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,not recovered/not resolved,serious,,,1,,1,spontaneous
+10000337,20240701,united kingdom,,69,801,female,BISOPROLOL FUMARATE,suspect,Hyperkalaemia,not recovered/not resolved,serious,,,,,,spontaneous
+10000344,20250403,united states,,48,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,not recovered/not resolved,serious,,1,,,1,spontaneous
+10000353,20241221,japan,,60,801,male,BISOPROLOL FUMARATE,suspect,Syncope,unknown,serious,,,,,1,spontaneous
+10000358,20240918,united states,,75,801,male,BISOPROLOL FUMARATE,suspect,Bronchospasm,not recovered/not resolved,serious,,1,,,1,spontaneous
+10000368,20250421,france,,56,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,recovered/resolved,serious,,1,,,1,report from study
+10000374,20250114,united states,,55,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,not recovered/not resolved,serious,,,1,,,spontaneous
+10000379,20240705,france,,69,801,male,BISOPROLOL FUMARATE,suspect,Cerebral haemorrhage,recovered/resolved,serious,,,,,,spontaneous
+10000386,20241112,france,,85,801,male,BISOPROLOL FUMARATE,suspect,Hyperkalaemia,recovered/resolved,serious,,,,,,spontaneous
+10000394,20250326,germany,,83,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,recovered/resolved,serious,,1,,,1,spontaneous
+10000403,20250413,united kingdom,,61,801,female,BISOPROLOL FUMARATE,suspect,Syncope,unknown,serious,,1,,,,report from study
+10000407,20250527,germany,,57,801,male,BISOPROLOL FUMARATE,suspect,Hyperkalaemia,recovered/resolved with sequelae,serious,,1,,,1,spontaneous
+10000417,20250218,spain,,79,801,female,BISOPROLOL FUMARATE,suspect,Syncope,not recovered/not resolved,serious,,,,,1,spontaneous
+10000422,20240916,united states,,55,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,not recovered/not resolved,serious,,1,,,,spontaneous
+10000431,20240726,italy,,68,801,female,BISOPROLOL FUMARATE,suspect,Off label use,not recovered/not resolved,serious,,1,,,,spontaneous
+10000437,20240930,united states,,81,801,female,BISOPROLOL FUMARATE,suspect,Dyspnoea,not recovered/not resolved,serious,,1,,,,spontaneous
+10000442,20250630,italy,,69,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,not recovered/not resolved,serious,,,,,,spontaneous
+10000448,20250109,united states,,46,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovering/resolving,serious,,1,,,1,spontaneous
+10000456,20240901,france,,48,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,,,,,spontaneous
+10000466,20250508,italy,,74,801,male,BISOPROLOL FUMARATE,suspect,Off label use,recovered/resolved,serious,,,,,1,report from study
+10000473,20250429,united states,,58,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,1,,,1,spontaneous
+10000477,20241012,united states,,84,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovering/resolving,serious,,1,,,1,spontaneous
+10000483,20241112,germany,,53,801,female,BISOPROLOL FUMARATE,suspect,Rash,recovered/resolved,serious,,1,,,1,spontaneous
+10000494,20250106,united states,,67,801,female,BISOPROLOL FUMARATE,suspect,Fall,unknown,serious,,1,,,,spontaneous
+10000498,20240825,germany,,70,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,1,1,,,spontaneous
+10000508,20241221,united states,,57,801,male,BISOPROLOL FUMARATE,suspect,Hyperkalaemia,recovered/resolved,serious,,1,,,,spontaneous
+10000508,20241221,france,,57,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,1,,,1,spontaneous
+10000514,20250127,united states,,61,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,,,1,,spontaneous
+10000521,20250519,united kingdom,,69,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,unknown,serious,,1,,,,spontaneous
+10000525,20250522,germany,,62,801,female,BISOPROLOL FUMARATE,suspect,Atrioventricular block,unknown,serious,,1,,,,report from study
+10000534,20240819,spain,,74,801,female,BISOPROLOL FUMARATE,suspect,Dyspnoea,recovered/resolved,serious,,,,,1,report from study
+10000540,20250320,united kingdom,,68,801,male,BISOPROLOL FUMARATE,suspect,Drug ineffective,recovered/resolved,serious,,,,,,spontaneous
+10000549,20250117,canada,,66,801,unknown,BISOPROLOL FUMARATE,suspect,Death,unknown,serious,1,,1,,1,spontaneous
+10000557,20241210,germany,,51,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,not recovered/not resolved,serious,,1,,,,spontaneous
+10000562,20250526,france,,62,801,male,BISOPROLOL FUMARATE,suspect,Dyspnoea,recovered/resolved,serious,,1,,,1,spontaneous
+10000570,20240707,france,,79,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,,,,,report from study
+10000576,20241126,united states,,57,801,female,BISOPROLOL FUMARATE,suspect,Nausea,recovering/resolving,serious,,,,,1,spontaneous
+10000583,20250620,united kingdom,,61,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovering/resolving,serious,,,,,,spontaneous
+10000588,20250420,germany,,64,801,male,BISOPROLOL FUMARATE,suspect,Headache,recovering/resolving,serious,,1,,,1,spontaneous
+10000596,20250209,united states,,80,801,male,BISOPROLOL FUMARATE,suspect,Cardiac failure,unknown,serious,,,,,,spontaneous
+10000602,20240807,australia,,72,801,female,BISOPROLOL FUMARATE,suspect,Syncope,recovered/resolved,serious,,,,,,other
+10000609,20250615,united states,,85,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,not recovered/not resolved,serious,,,,,1,other
+10000616,20250122,united states,,93,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,,,,,spontaneous
+10000626,20240716,canada,,73,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,1,,,,spontaneous
+10000632,20250422,united states,,59,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,unknown,serious,,,,,,spontaneous
+10000637,20250429,germany,,66,801,male,BISOPROLOL FUMARATE,suspect,Dyspnoea,recovered/resolved,serious,,,,,1,spontaneous
+10000644,20241204,united kingdom,,69,801,male,BISOPROLOL FUMARATE,suspect,Off label use,recovered/resolved,serious,,1,,,,spontaneous
+10000655,20250214,united states,,62,801,female,BISOPROLOL FUMARATE,suspect,Fall,recovered/resolved,serious,,,,,1,spontaneous
+10000658,20240714,united states,,88,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovering/resolving,serious,,1,,,,spontaneous
+10000665,20250527,united states,,64,801,male,BISOPROLOL FUMARATE,suspect,Fall,fatal,serious,1,,,,1,spontaneous
+10000676,20250414,united states,,61,801,male,BISOPROLOL FUMARATE,suspect,Bronchospasm,recovering/resolving,serious,,1,,,1,other
+10000676,20250414,japan,,61,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,recovering/resolving,serious,,,,,,spontaneous
+10000682,20250304,united states,,73,801,female,BISOPROLOL FUMARATE,suspect,Fall,not recovered/not resolved,serious,,,,,,spontaneous
+10000688,20250409,united states,,63,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,unknown,serious,,,,,,spontaneous
+10000697,20250612,united states,,74,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,1,,,1,spontaneous
+10000704,20240817,united states,,78,801,male,BISOPROLOL FUMARATE,suspect,Cardiac failure,recovered/resolved,serious,,,,,,spontaneous
+10000711,20241115,united states,,71,801,female,BISOPROLOL FUMARATE,suspect,Dyspnoea,recovered/resolved,serious,,1,1,,,spontaneous
+10000715,20250626,united states,,58,801,female,BISOPROLOL FUMARATE,suspect,Bronchospasm,recovered/resolved with sequelae,serious,,1,,,,spontaneous
+10000722,20250622,united states,,74,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,recovered/resolved,serious,,1,,,,other
+10000728,20250313,united kingdom,,68,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,unknown,serious,,1,1,,1,other
+10000738,20240731,united states,,70,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,unknown,serious,,,,,1,spontaneous
+10000745,20240918,united states,,53,801,female,BISOPROLOL FUMARATE,suspect,Cardiac failure,unknown,serious,,1,,,,spontaneous
+10000750,20241030,united states,,62,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,unknown,serious,,,1,,,spontaneous
+10000756,20240704,united states,,92,801,female,BISOPROLOL FUMARATE,suspect,Cardiac failure,fatal,serious,1,,,,1,spontaneous
+10000763,20250407,united kingdom,,68,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,fatal,serious,1,,,,1,spontaneous
+10000770,20250604,france,,48,801,female,BISOPROLOL FUMARATE,suspect,Cerebral haemorrhage,recovered/resolved,serious,,1,,,1,spontaneous
+10000780,20250311,canada,,77,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,unknown,serious,,,1,,1,other
+10000787,20250514,united states,,86,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,not recovered/not resolved,serious,,1,,,,other
+10000795,20241119,united states,,78,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,1,,,,spontaneous
+10000801,20250313,france,,76,801,male,BISOPROLOL FUMARATE,suspect,Rash,fatal,serious,1,,,,1,other
+10000808,20240701,spain,,69,801,male,BISOPROLOL FUMARATE,suspect,Bronchospasm,recovering/resolving,serious,,1,,,,spontaneous
+10000814,20241018,australia,,82,801,female,BISOPROLOL FUMARATE,suspect,Atrioventricular block,fatal,serious,1,,,,,other
+10000822,20240804,canada,,76,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,unknown,serious,,,,,,spontaneous
+10000830,20240917,united states,,35,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,recovered/resolved,serious,,1,,,,spontaneous
+10000836,20240927,australia,,52,801,male,BISOPROLOL FUMARATE,suspect,Headache,fatal,serious,1,,,,1,spontaneous
+10000843,20250120,germany,,70,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,recovered/resolved,serious,,,,,,spontaneous
+10000843,20250120,spain,,70,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,1,,,1,other
+10000850,20240729,australia,,64,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved,serious,,1,,,,spontaneous
+10000854,20250117,united states,,52,801,male,BISOPROLOL FUMARATE,suspect,Drug ineffective,recovered/resolved,serious,,,,,1,spontaneous
+10000862,20250415,united states,,73,801,male,BISOPROLOL FUMARATE,suspect,Syncope,recovering/resolving,serious,,1,,,,other
+10000869,20250615,united states,,51,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,unknown,serious,,1,,,,spontaneous
+10000879,20241206,united states,,73,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,not recovered/not resolved,serious,,1,,,,spontaneous
+10000885,20241030,united kingdom,,58,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,not recovered/not resolved,serious,,,,,1,spontaneous
+10000891,20250422,germany,,84,801,male,BISOPROLOL FUMARATE,suspect,Syncope,not recovered/not resolved,serious,,,,,,spontaneous
+10000897,20250319,united states,,72,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,not recovered/not resolved,serious,,1,,,,report from study
+10000905,20250219,spain,,82,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,recovered/resolved,serious,,,,,,spontaneous
+10000912,20250527,united states,,47,801,female,BISOPROLOL FUMARATE,suspect,Dyspnoea,unknown,serious,,,,,,other
+10000920,20250125,united kingdom,,66,801,female,BISOPROLOL FUMARATE,suspect,Headache,fatal,serious,1,,,,,spontaneous
+10000925,20241123,united states,,83,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,1,,,,spontaneous
+10000935,20240821,united states,,61,801,female,BISOPROLOL FUMARATE,suspect,Atrioventricular block,not recovered/not resolved,serious,,,,,,spontaneous
+10000941,20240813,united kingdom,,63,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,1,,,1,spontaneous
+10000949,20241203,france,,83,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,,,,,spontaneous
+10000952,20250112,italy,,58,801,male,BISOPROLOL FUMARATE,suspect,Syncope,recovered/resolved,serious,,1,,,1,report from study
+10000961,20250109,united states,,58,801,male,BISOPROLOL FUMARATE,suspect,Nausea,recovered/resolved,serious,,1,,,,spontaneous
+10000966,20240831,spain,,59,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,unknown,serious,,1,,,,spontaneous
+10000976,20250310,canada,,69,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,fatal,serious,1,,,,,spontaneous
+10000982,20250604,germany,,75,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,not recovered/not resolved,serious,,1,,,1,spontaneous
+10000991,20250628,united states,,73,801,male,BISOPROLOL FUMARATE,suspect,Nausea,fatal,serious,1,,,,,spontaneous
+10000997,20241208,italy,,63,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,not recovered/not resolved,serious,,,1,,1,spontaneous
+10001004,20241023,germany,,77,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,unknown,serious,,1,,1,1,spontaneous
+10001010,20240910,united states,,77,801,female,BISOPROLOL FUMARATE,suspect,Syncope,fatal,serious,1,,,,,spontaneous
+10001010,20240910,united kingdom,,77,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,fatal,serious,1,,,,1,spontaneous
+10001017,20250409,united kingdom,,45,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,not recovered/not resolved,serious,,,,,,spontaneous
+10001024,20240711,japan,,51,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved,serious,,1,,,,report from study
+10001032,20241208,canada,,45,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,fatal,serious,1,,,,1,spontaneous
+10001040,20241115,united states,,59,801,male,BISOPROLOL FUMARATE,suspect,Headache,fatal,serious,1,,,,,spontaneous
+10001047,20250617,germany,,58,801,male,BISOPROLOL FUMARATE,suspect,Death,recovering/resolving,serious,1,,,,1,spontaneous
+10001050,20250626,united states,,73,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,1,,,,other
+10001061,20250224,canada,,66,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,recovering/resolving,serious,,,,,,spontaneous
+10001068,20241001,united states,,71,801,female,BISOPROLOL FUMARATE,suspect,Bronchospasm,recovered/resolved,serious,,1,,,1,spontaneous
+10001073,20250101,united kingdom,,70,801,female,BISOPROLOL FUMARATE,suspect,Headache,unknown,serious,,,,,,spontaneous
+10001079,20240721,united states,,88,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,not recovered/not resolved,serious,,1,,,,other
+10001086,20250427,united kingdom,,71,801,unknown,BISOPROLOL FUMARATE,suspect,Hypotension,recovering/resolving,serious,,1,,,,report from study
+10001094,20250506,united states,,69,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,not recovered/not resolved,serious,,1,,,,spontaneous
+10001102,20250528,france,,68,801,male,BISOPROLOL FUMARATE,suspect,Rash,unknown,serious,,1,,,1,spontaneous
+10001106,20250327,united kingdom,,88,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,1,1,,,spontaneous
+10001115,20240728,germany,,66,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,unknown,serious,,,,,1,spontaneous
+10001122,20241023,japan,,47,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,not recovered/not resolved,serious,,,,,,other
+10001130,20250518,italy,,62,801,female,BISOPROLOL FUMARATE,suspect,Rash,unknown,serious,,1,,,1,spontaneous
+10001135,20241031,united states,,80,801,male,BISOPROLOL FUMARATE,suspect,Dyspnoea,recovered/resolved,serious,,1,,,,spontaneous
+10001142,20240715,italy,,50,801,female,BISOPROLOL FUMARATE,suspect,Cardiac failure,recovered/resolved with sequelae,serious,,1,,,,report from study
+10001148,20250119,united kingdom,,95,801,male,BISOPROLOL FUMARATE,suspect,Dyspnoea,not recovered/not resolved,serious,,,,,,spontaneous
+10001159,20250617,united states,,53,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,unknown,serious,,1,,,1,spontaneous
+10001166,20250307,germany,,81,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,,,,,spontaneous
+10001170,20250618,united states,,54,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved with sequelae,serious,,1,,,1,spontaneous
+10001176,20250218,united states,,69,801,male,BISOPROLOL FUMARATE,suspect,Nausea,recovering/resolving,serious,,,,,1,spontaneous
+10001176,20250218,united states,,69,801,male,BISOPROLOL FUMARATE,suspect,Depression,recovering/resolving,serious,,1,,,1,spontaneous
+10001186,20250409,united states,,99,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,,,,1,spontaneous
+10001194,20241229,germany,,97,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovering/resolving,serious,,1,,,,spontaneous
+10001200,20250103,united states,,29,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,unknown,serious,,1,1,,1,spontaneous
+10001205,20250113,united states,,75,801,female,BISOPROLOL FUMARATE,suspect,Syncope,not recovered/not resolved,serious,,,,,1,spontaneous
+10001213,20250223,united states,,90,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,1,,,,spontaneous
+10001218,20240723,united states,,63,801,female,BISOPROLOL FUMARATE,suspect,Syncope,recovered/resolved,serious,,1,1,,,spontaneous
+10001227,20250225,united states,,52,801,female,BISOPROLOL FUMARATE,suspect,Syncope,fatal,serious,1,,,,,spontaneous
+10001232,20250115,france,,81,801,female,BISOPROLOL FUMARATE,suspect,Bronchospasm,recovered/resolved,serious,,1,,,,spontaneous
+10001243,20250122,spain,,60,801,male,BISOPROLOL FUMARATE,suspect,Dyspnoea,recovered/resolved with sequelae,serious,,1,,,1,spontaneous
+10001248,20241115,france,,68,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,unknown,serious,,1,,,,spontaneous
+10001253,20250529,united states,,71,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,unknown,serious,,,,,1,spontaneous
+10001260,20241105,canada,,64,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,unknown,serious,,,,,,spontaneous
+10001268,20241105,canada,,71,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,fatal,serious,1,,,,,spontaneous
+10001275,20250412,france,,61,801,female,BISOPROLOL FUMARATE,suspect,Cerebral haemorrhage,fatal,serious,1,,,,1,other
+10001284,20241220,united kingdom,,76,801,female,BISOPROLOL FUMARATE,suspect,Dyspnoea,unknown,serious,,,,,,spontaneous
+10001290,20241018,united states,,83,801,female,BISOPROLOL FUMARATE,suspect,Drug ineffective,recovered/resolved,serious,,1,,,,spontaneous
+10001295,20250517,france,,56,801,female,BISOPROLOL FUMARATE,suspect,Fall,fatal,serious,1,,,,,spontaneous
+10001304,20240721,united states,,43,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,1,,,,report from study
+10001311,20240827,united kingdom,,77,801,male,BISOPROLOL FUMARATE,suspect,Headache,recovered/resolved,serious,,1,,,,other
+10001318,20240929,italy,,57,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,not recovered/not resolved,serious,,1,,,1,other
+10001325,20250102,united states,,50,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,unknown,serious,,1,,,,spontaneous
+10001333,20250227,united states,,53,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,not recovered/not resolved,serious,,1,,,,spontaneous
+10001339,20250613,france,,57,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,not recovered/not resolved,serious,,1,,,1,spontaneous
+10001347,20250617,germany,,67,801,male,BISOPROLOL FUMARATE,suspect,Drug ineffective,recovered/resolved,serious,,1,,,,spontaneous
+10001347,20250617,united states,,67,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,recovered/resolved,serious,,,,,1,other
+10001355,20241030,france,,95,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,1,,,,spontaneous
+10001361,20250330,united kingdom,,60,801,male,BISOPROLOL FUMARATE,suspect,Depression,not recovered/not resolved,serious,,1,,,1,report from study
+10001369,20250607,united states,,64,801,male,BISOPROLOL FUMARATE,suspect,Death,fatal,serious,1,,,,,spontaneous
+10001375,20240709,japan,,45,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,unknown,serious,,1,,,,spontaneous
+10001382,20241008,italy,,56,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,recovering/resolving,serious,,1,,,,spontaneous
+10001390,20241223,france,,36,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,fatal,serious,1,,,,1,spontaneous
+10001393,20250404,canada,,61,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovering/resolving,serious,,,,,1,spontaneous
+10001401,20250626,france,,90,801,male,BISOPROLOL FUMARATE,suspect,Drug ineffective,recovered/resolved,serious,,,,,,other
+10001409,20250328,united kingdom,,33,801,female,BISOPROLOL FUMARATE,suspect,Syncope,unknown,serious,,,,,,report from study
+10001416,20250331,canada,,83,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,recovering/resolving,serious,,,,,,spontaneous
+10001424,20250626,united kingdom,,54,801,female,BISOPROLOL FUMARATE,suspect,Syncope,unknown,serious,,1,,,,report from study
+10001431,20240926,united kingdom,,71,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved,serious,,1,1,,1,spontaneous
+10001438,20241209,france,,77,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,unknown,serious,,,,,1,spontaneous
+10001442,20240817,united states,,78,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,not recovered/not resolved,serious,,,,,,spontaneous
+10001449,20250421,germany,,69,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,recovered/resolved,serious,,1,1,,,spontaneous
+10001460,20250323,italy,,91,801,male,BISOPROLOL FUMARATE,suspect,Bronchospasm,unknown,serious,,1,,,1,spontaneous
+10001467,20250223,united states,,77,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,recovered/resolved,serious,,1,,1,,spontaneous
+10001472,20250310,united states,,57,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,unknown,serious,,,,,1,other
+10001478,20240711,united kingdom,,67,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,not recovered/not resolved,serious,,,,,,spontaneous
+10001487,20250302,united states,,75,801,male,BISOPROLOL FUMARATE,suspect,Atrioventricular block,recovered/resolved,serious,,1,,,1,spontaneous
+10001491,20250403,australia,,65,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovering/resolving,serious,,1,,,1,spontaneous
+10001501,20241214,united states,,64,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,,,,,report from study
+10001506,20250513,germany,,77,801,male,BISOPROLOL FUMARATE,suspect,Cerebral haemorrhage,recovering/resolving,serious,,1,,,,spontaneous
+10001515,20250501,united states,,55,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,not recovered/not resolved,serious,,,,,,spontaneous
+10001515,20250501,united states,,55,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,not recovered/not resolved,serious,,,,,,spontaneous
+10001523,20250601,united kingdom,,61,801,male,BISOPROLOL FUMARATE,suspect,Rash,recovered/resolved,serious,,,,,1,spontaneous
+10001530,20250225,italy,,73,801,female,BISOPROLOL FUMARATE,suspect,Drug ineffective,recovering/resolving,serious,,,,,,other
+10001537,20250518,italy,,60,801,female,BISOPROLOL FUMARATE,suspect,Drug ineffective,recovered/resolved,serious,,1,,,,spontaneous
+10001543,20241104,australia,,84,801,female,BISOPROLOL FUMARATE,suspect,Fall,not recovered/not resolved,serious,,,,,,spontaneous
+10001549,20250624,united states,,82,801,female,BISOPROLOL FUMARATE,suspect,Drug ineffective,unknown,serious,,1,,,1,spontaneous
+10001554,20250615,united kingdom,,80,801,female,BISOPROLOL FUMARATE,suspect,Atrioventricular block,recovered/resolved,serious,,,,,,spontaneous
+10001563,20241226,united kingdom,,86,801,female,BISOPROLOL FUMARATE,suspect,Cerebral haemorrhage,recovered/resolved,serious,,1,,,,spontaneous
+10001568,20241031,france,,38,801,male,BISOPROLOL FUMARATE,suspect,Fall,unknown,serious,,,1,,,spontaneous
+10001579,20241204,canada,,63,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved,serious,,1,,,,other
+10001586,20240707,united states,,82,801,female,BISOPROLOL FUMARATE,suspect,Cardiac failure,recovering/resolving,serious,,1,,,1,spontaneous
+10001589,20250115,united kingdom,,72,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,recovered/resolved,serious,,1,,,,report from study
+10001600,20240718,united states,,81,801,male,BISOPROLOL FUMARATE,suspect,Fall,recovered/resolved,serious,,1,,1,,report from study
+10001605,20241013,france,,83,801,female,BISOPROLOL FUMARATE,suspect,Atrioventricular block,recovered/resolved,serious,,1,,,1,spontaneous
+10001613,20250509,france,,57,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,unknown,serious,,,,,,spontaneous
+10001620,20250412,spain,,72,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,unknown,serious,,1,,,,spontaneous
+10001627,20241229,united states,,59,801,male,BISOPROLOL FUMARATE,suspect,Bronchospasm,unknown,serious,,,,,,spontaneous
+10001632,20241004,germany,,79,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,recovering/resolving,serious,,1,,,1,spontaneous
+10001641,20250309,canada,,66,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,unknown,serious,,,,,1,spontaneous
+10001649,20250210,united kingdom,,77,801,male,BISOPROLOL FUMARATE,suspect,Nausea,unknown,serious,,,,,,spontaneous
+10001653,20250421,united states,,54,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved,serious,,1,,,1,spontaneous
+10001663,20250308,united states,,92,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,fatal,serious,1,,,,,spontaneous
+10001670,20241118,united states,,71,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,1,1,,1,spontaneous
+10001673,20250418,united states,,72,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,unknown,serious,,,,,,report from study
+10001680,20250408,united states,,59,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,1,,,,spontaneous
+10001680,20250408,united states,,59,801,female,BISOPROLOL FUMARATE,suspect,Bronchospasm,recovered/resolved,serious,,1,,,,spontaneous
+10001690,20250610,germany,,79,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,recovered/resolved,serious,,1,,,1,spontaneous
+10001694,20241222,germany,,60,801,female,BISOPROLOL FUMARATE,suspect,Cardiac failure,recovered/resolved,serious,,1,,,1,spontaneous
+10001702,20250630,united kingdom,,62,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,unknown,serious,,1,,,,spontaneous
+10001709,20240919,japan,,63,801,male,BISOPROLOL FUMARATE,suspect,Headache,not recovered/not resolved,serious,,1,,,1,spontaneous
+10001719,20241216,united states,,40,801,male,BISOPROLOL FUMARATE,suspect,Syncope,not recovered/not resolved,serious,,1,,,1,spontaneous
+10001725,20250606,france,,55,801,female,BISOPROLOL FUMARATE,suspect,Headache,recovering/resolving,serious,,,,,,spontaneous
+10001731,20250106,japan,,77,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,not recovered/not resolved,serious,,1,,,1,report from study
+10001739,20241109,united states,,57,801,male,BISOPROLOL FUMARATE,suspect,Nausea,recovered/resolved,serious,,1,,,,spontaneous
+10001745,20250129,united states,,70,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,1,,,,spontaneous
+10001750,20240706,australia,,68,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,,1,,,spontaneous
+10001757,20240717,france,,63,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,1,,,,spontaneous
+10001767,20240722,canada,,47,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,fatal,serious,1,,,,,spontaneous
+10001771,20250211,united states,,59,801,male,BISOPROLOL FUMARATE,suspect,Syncope,not recovered/not resolved,serious,,1,,,,spontaneous
+10001779,20240901,united states,,74,801,male,BISOPROLOL FUMARATE,suspect,Drug ineffective,unknown,serious,,,,,1,spontaneous
+10001789,20240820,united states,,84,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,unknown,serious,,,,,,spontaneous
+10001795,20250404,canada,,82,801,male,BISOPROLOL FUMARATE,suspect,Dyspnoea,not recovered/not resolved,serious,,1,,,,spontaneous
+10001799,20240927,japan,,58,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,,,,1,spontaneous
+10001807,20250426,italy,,88,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,recovered/resolved,serious,,1,,,,spontaneous
+10001816,20241203,united states,,55,801,male,BISOPROLOL FUMARATE,suspect,Dyspnoea,unknown,serious,,,,,1,spontaneous
+10001821,20250110,germany,,47,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,1,,,,spontaneous
+10001830,20250128,japan,,91,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,recovered/resolved,serious,,1,1,,,spontaneous
+10001837,20241110,united kingdom,,35,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,unknown,serious,,1,,,,spontaneous
+10001844,20240816,united kingdom,,84,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,unknown,serious,,1,,,1,spontaneous
+10001848,20250624,australia,,87,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,,1,,1,spontaneous
+10001848,20250624,canada,,87,801,female,BISOPROLOL FUMARATE,suspect,Syncope,recovered/resolved,serious,,,,1,1,spontaneous
+10001858,20241002,united kingdom,,72,801,unknown,BISOPROLOL FUMARATE,suspect,Acute kidney injury,unknown,serious,,,,,,spontaneous
+10001864,20241109,united states,,65,801,male,BISOPROLOL FUMARATE,suspect,Nausea,recovered/resolved,serious,,,,,1,spontaneous
+10001869,20250503,united states,,56,801,male,BISOPROLOL FUMARATE,suspect,Drug ineffective,recovered/resolved,serious,,1,,,,spontaneous
+10001880,20241028,germany,,68,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,1,,,,report from study
+10001885,20241112,germany,,60,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,unknown,serious,,1,1,,,spontaneous
+10001893,20250516,japan,,55,801,female,BISOPROLOL FUMARATE,suspect,Fall,unknown,serious,,1,,,1,spontaneous
+10001897,20250101,italy,,89,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,unknown,serious,,1,,,1,spontaneous
+10001904,20250430,italy,,67,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovering/resolving,serious,,,,,,spontaneous
+10001915,20241026,united kingdom,,63,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovering/resolving,serious,,1,,,,spontaneous
+10001921,20240804,united states,,59,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,recovering/resolving,serious,,,,1,,other
+10001925,20250226,united states,,68,801,female,BISOPROLOL FUMARATE,suspect,Atrioventricular block,not recovered/not resolved,serious,,1,,,1,spontaneous
+10001935,20241009,italy,,57,801,male,BISOPROLOL FUMARATE,suspect,Syncope,not recovered/not resolved,serious,,1,,,1,spontaneous
+10001940,20250323,united kingdom,,71,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved,serious,,1,,,1,spontaneous
+10001946,20250216,united states,,65,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,not recovered/not resolved,serious,,1,,,1,spontaneous
+10001953,20250215,united states,,61,801,female,BISOPROLOL FUMARATE,suspect,Fall,recovered/resolved,serious,,1,,,,spontaneous
+10001964,20250629,united states,,66,801,male,BISOPROLOL FUMARATE,suspect,Cardiac failure,recovered/resolved,serious,,,,,,spontaneous
+10001970,20241112,united states,,52,801,male,BISOPROLOL FUMARATE,suspect,Cerebral haemorrhage,unknown,serious,,1,,,1,spontaneous
+10001976,20250415,canada,,80,801,female,BISOPROLOL FUMARATE,suspect,Headache,recovered/resolved,serious,,1,,,1,spontaneous
+10001983,20250513,france,,66,801,female,BISOPROLOL FUMARATE,suspect,Atrioventricular block,recovered/resolved,serious,,1,,,1,spontaneous
+10001990,20250220,spain,,52,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,,,,1,other
+10001999,20250302,united kingdom,,62,801,female,BISOPROLOL FUMARATE,suspect,Syncope,fatal,serious,1,,,,,spontaneous
+10002003,20240720,united kingdom,,91,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,unknown,serious,,1,,,,spontaneous
+10002010,20250130,united states,,56,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,unknown,serious,,1,,1,,spontaneous
+10002018,20250128,united states,,51,801,male,BISOPROLOL FUMARATE,suspect,Depression,not recovered/not resolved,serious,,,,,,spontaneous
+10002018,20250128,canada,,51,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,not recovered/not resolved,serious,,,,,1,spontaneous
+10002023,20250611,italy,,70,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,fatal,serious,1,,1,1,1,other
+10002030,20250214,united states,,54,801,unknown,BISOPROLOL FUMARATE,suspect,Depression,unknown,serious,,,,,1,spontaneous
+10002037,20250217,united states,,92,801,female,BISOPROLOL FUMARATE,suspect,Syncope,recovering/resolving,serious,,1,,,,spontaneous
+10002044,20240816,spain,,65,801,female,BISOPROLOL FUMARATE,suspect,Cardiac failure,recovering/resolving,serious,,1,,,,spontaneous
+10002055,20250203,united states,,62,801,unknown,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,,,,1,other
+10002059,20241004,united states,,45,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,not recovered/not resolved,serious,,1,,,,spontaneous
+10002067,20241222,united states,,88,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,unknown,serious,,1,,,,spontaneous
+10002076,20240726,france,,69,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,unknown,serious,,,1,,,spontaneous
+10002079,20250503,united kingdom,,74,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved with sequelae,serious,,,,,,spontaneous
+10002089,20250328,japan,,81,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved with sequelae,serious,,,,,,spontaneous
+10002095,20250618,united states,,95,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,recovering/resolving,serious,,1,,,,spontaneous
+10002104,20241001,canada,,87,801,female,BISOPROLOL FUMARATE,suspect,Atrioventricular block,unknown,serious,,,,,,spontaneous
+10002108,20240710,united states,,63,801,female,BISOPROLOL FUMARATE,suspect,Cerebral haemorrhage,unknown,serious,,,,,1,spontaneous
+10002115,20250521,united states,,71,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,recovering/resolving,serious,,1,,,1,spontaneous
+10002125,20240905,spain,,57,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,fatal,serious,1,,,,,spontaneous
+10002131,20240810,united kingdom,,44,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,1,,,,spontaneous
+10002137,20241129,united states,,77,801,female,BISOPROLOL FUMARATE,suspect,Dyspnoea,recovering/resolving,serious,,1,,,1,spontaneous
+10002144,20240708,united states,,79,801,female,BISOPROLOL FUMARATE,suspect,Fall,unknown,serious,,1,,,1,spontaneous
+10002149,20250528,canada,,66,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,unknown,serious,,,,,,spontaneous
+10002160,20250421,united states,,69,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,unknown,serious,,,,,,spontaneous
+10002163,20241214,france,,88,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved with sequelae,serious,,,,,,spontaneous
+10002170,20250501,united states,,54,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,1,,,,spontaneous
+10002180,20240722,united states,,82,801,male,BISOPROLOL FUMARATE,suspect,Drug ineffective,not recovered/not resolved,serious,,1,,,1,spontaneous
+10002185,20250503,japan,,63,801,male,BISOPROLOL FUMARATE,suspect,Nausea,not recovered/not resolved,serious,,,,,1,spontaneous
+10002185,20250503,spain,,63,801,male,BISOPROLOL FUMARATE,suspect,Cardiac failure,not recovered/not resolved,serious,,,,,1,spontaneous
+10002191,20250630,united states,,79,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,not recovered/not resolved,serious,,1,,1,1,spontaneous
+10002200,20241124,united states,,72,801,male,BISOPROLOL FUMARATE,suspect,Syncope,recovering/resolving,serious,,1,,,,spontaneous
+10002209,20250204,united states,,53,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved,serious,,,,,,spontaneous
+10002216,20250509,australia,,70,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,,,,,spontaneous
+10002220,20250519,united states,,65,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,recovering/resolving,serious,,1,,,,spontaneous
+10002226,20241105,germany,,65,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,1,,,1,spontaneous
+10002235,20250327,united states,,71,801,female,BISOPROLOL FUMARATE,suspect,Cardiac failure,recovered/resolved with sequelae,serious,,,1,,,spontaneous
+10002240,20250410,japan,,80,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,unknown,serious,,,,,1,report from study
+10002247,20250108,canada,,81,801,male,BISOPROLOL FUMARATE,suspect,Bronchospasm,unknown,serious,,,,,1,spontaneous
+10002254,20250416,germany,,82,801,male,BISOPROLOL FUMARATE,suspect,Dyspnoea,recovered/resolved,serious,,,,,1,spontaneous
+10002262,20250415,france,,66,801,male,BISOPROLOL FUMARATE,suspect,Hyperkalaemia,recovering/resolving,serious,,,,,,spontaneous
+10002269,20240809,united states,,74,801,female,BISOPROLOL FUMARATE,suspect,Syncope,recovered/resolved,serious,,,,,,spontaneous
+10002277,20250508,united states,,79,801,male,BISOPROLOL FUMARATE,suspect,Nausea,recovered/resolved,serious,,,,,,spontaneous
+10002282,20250226,germany,,46,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,recovering/resolving,serious,,1,,,,spontaneous
+10002292,20250310,germany,,48,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,recovering/resolving,serious,,1,,,1,spontaneous
+10002300,20250102,germany,,48,801,female,BISOPROLOL FUMARATE,suspect,Cardiac failure,recovered/resolved,serious,,,,,,spontaneous
+10002305,20241118,canada,,68,801,male,BISOPROLOL FUMARATE,suspect,Bronchospasm,recovered/resolved with sequelae,serious,,,,,1,spontaneous
+10002310,20240826,spain,,88,801,female,BISOPROLOL FUMARATE,suspect,Drug ineffective,recovered/resolved,serious,,1,1,1,,other
+10002321,20250515,france,,68,801,female,BISOPROLOL FUMARATE,suspect,Rash,unknown,serious,,1,1,,,spontaneous
+10002327,20241121,germany,,56,801,male,BISOPROLOL FUMARATE,suspect,Hyperkalaemia,unknown,serious,,,,,,spontaneous
+10002331,20250217,united states,,78,801,male,BISOPROLOL FUMARATE,suspect,Headache,recovered/resolved,serious,,1,,,,spontaneous
+10002340,20240918,united kingdom,,55,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved,serious,,,,,1,spontaneous
+10002348,20241116,united states,,70,801,female,BISOPROLOL FUMARATE,suspect,Atrioventricular block,recovered/resolved,serious,,,,,1,spontaneous
+10002354,20240804,japan,,65,801,male,BISOPROLOL FUMARATE,suspect,Bronchospasm,not recovered/not resolved,serious,,,1,,,spontaneous
+10002354,20240804,united kingdom,,65,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,not recovered/not resolved,serious,,1,,,,spontaneous
+10002359,20250618,germany,,73,801,male,BISOPROLOL FUMARATE,suspect,Syncope,fatal,serious,1,,,1,,spontaneous
+10002366,20240704,united states,,50,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,fatal,serious,1,,,,1,spontaneous
+10002373,20241230,germany,,65,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,1,,,,spontaneous
+10002382,20240905,united kingdom,,67,801,male,BISOPROLOL FUMARATE,suspect,Cerebral haemorrhage,recovered/resolved,serious,,1,,,1,spontaneous
+10002391,20250413,australia,,57,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,recovering/resolving,serious,,1,,,1,spontaneous
+10002397,20250202,united states,,48,801,male,BISOPROLOL FUMARATE,suspect,Cerebral haemorrhage,fatal,serious,1,,,,,spontaneous
+10002402,20250617,united states,,30,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved,serious,,,,,,spontaneous
+10002412,20240903,united states,,52,801,female,BISOPROLOL FUMARATE,suspect,Hyperkalaemia,recovering/resolving,serious,,1,,,,spontaneous
+10002416,20250127,germany,,82,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,not recovered/not resolved,serious,,1,,,,other
+10002425,20250418,united states,,74,801,female,BISOPROLOL FUMARATE,suspect,Nausea,unknown,serious,,1,,,,spontaneous
+10002432,20250528,united states,,60,801,male,BISOPROLOL FUMARATE,suspect,Hyperkalaemia,unknown,serious,,,1,,1,spontaneous
+10002439,20250602,united states,,50,801,male,BISOPROLOL FUMARATE,suspect,Cerebral haemorrhage,recovered/resolved,serious,,1,,,,spontaneous
+10002445,20250504,united kingdom,,60,801,male,BISOPROLOL FUMARATE,suspect,Headache,recovered/resolved,serious,,,,,1,spontaneous
+10002451,20240901,italy,,50,801,female,BISOPROLOL FUMARATE,suspect,Cardiac failure,recovered/resolved,serious,,,,,,spontaneous
+10002459,20250505,united states,,55,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,,,,1,other
+10002466,20250401,united states,,66,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,1,,,1,spontaneous
+10002472,20250210,germany,,66,801,male,BISOPROLOL FUMARATE,suspect,Dyspnoea,recovered/resolved,serious,,,,,1,spontaneous
+10002481,20250423,united states,,80,801,male,BISOPROLOL FUMARATE,suspect,Fall,recovered/resolved,serious,,,,,1,spontaneous
+10002487,20250205,united kingdom,,81,801,female,BISOPROLOL FUMARATE,suspect,Drug ineffective,unknown,serious,,1,,,1,report from study
+10002496,20241015,germany,,59,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved with sequelae,serious,,,,,,spontaneous
+10002502,20250314,france,,79,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,1,,,,report from study
+10002509,20250217,united kingdom,,50,801,female,BISOPROLOL FUMARATE,suspect,Cardiac failure,unknown,serious,,1,1,1,,spontaneous
+10002514,20241019,germany,,65,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,recovering/resolving,serious,,1,,,1,report from study
+10002524,20240726,united states,,64,801,male,BISOPROLOL FUMARATE,suspect,Cerebral haemorrhage,unknown,serious,,1,,,,spontaneous
+10002524,20240726,japan,,64,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,unknown,serious,,1,,,,spontaneous
+10002530,20250314,united states,,43,801,male,BISOPROLOL FUMARATE,suspect,Hyperkalaemia,recovered/resolved,serious,,1,,,,spontaneous
+10002537,20250610,germany,,55,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,unknown,serious,,,,,,spontaneous
+10002544,20250308,germany,,56,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,not recovered/not resolved,serious,,,,,1,spontaneous
+10002549,20240810,germany,,57,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,1,,,,other
+10002557,20250205,spain,,44,801,female,BISOPROLOL FUMARATE,suspect,Atrioventricular block,unknown,serious,,,,,,spontaneous
+10002563,20240706,germany,,33,801,female,BISOPROLOL FUMARATE,suspect,Drug ineffective,unknown,serious,,1,,,,report from study
+10002570,20240829,united states,,90,801,male,BISOPROLOL FUMARATE,suspect,Hyperkalaemia,fatal,serious,1,,,,,spontaneous
+10002580,20241205,united states,,54,801,male,BISOPROLOL FUMARATE,suspect,Dyspnoea,recovered/resolved,serious,,,,,1,spontaneous
+10002583,20250627,united kingdom,,80,801,female,BISOPROLOL FUMARATE,suspect,Dyspnoea,unknown,serious,,1,,,,spontaneous
+10002592,20240822,france,,99,801,unknown,BISOPROLOL FUMARATE,suspect,Dizziness,recovered/resolved,serious,,,,,1,spontaneous
+10002597,20250611,italy,,70,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,not recovered/not resolved,serious,,1,,,1,spontaneous
+10002604,20250324,united states,,73,801,male,BISOPROLOL FUMARATE,suspect,Drug ineffective,recovering/resolving,serious,,,,,,spontaneous
+10002612,20250616,italy,,50,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,,,,,spontaneous
+10002618,20250112,germany,,56,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,not recovered/not resolved,serious,,,,,1,spontaneous
+10002628,20250620,germany,,66,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,unknown,serious,,,1,,1,spontaneous
+10002633,20250227,united states,,86,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,unknown,serious,,,,,,other
+10002643,20250404,united states,,72,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,unknown,serious,,,,,1,spontaneous
+10002647,20250429,united states,,76,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,unknown,serious,,1,,1,1,spontaneous
+10002657,20250326,united states,,71,801,male,BISOPROLOL FUMARATE,suspect,Atrioventricular block,recovering/resolving,serious,,1,,,,spontaneous
+10002663,20250127,united states,,68,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,unknown,serious,,1,,,1,spontaneous
+10002668,20250403,canada,,55,801,male,BISOPROLOL FUMARATE,suspect,Syncope,recovering/resolving,serious,,,,,,spontaneous
+10002678,20250526,united states,,76,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,not recovered/not resolved,serious,,,,,,spontaneous
+10002685,20250515,united states,,59,801,female,BISOPROLOL FUMARATE,suspect,Rash,recovered/resolved,serious,,,,,,spontaneous
+10002692,20250301,united states,,61,801,male,BISOPROLOL FUMARATE,suspect,Hyperkalaemia,recovering/resolving,serious,,,,1,1,spontaneous
+10002692,20250301,italy,,61,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovering/resolving,serious,,,,1,1,spontaneous
+10002698,20250605,japan,,51,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,unknown,serious,,1,,,,spontaneous
+10002706,20241121,spain,,72,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,not recovered/not resolved,serious,,,,,1,spontaneous
+10002713,20250426,japan,,50,801,male,BISOPROLOL FUMARATE,suspect,Nausea,recovered/resolved,serious,,,,,1,spontaneous
+10002718,20250605,france,,71,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved,serious,,,,,,other
+10002723,20250127,united states,,39,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,not recovered/not resolved,serious,,1,,,,spontaneous
+10002731,20241112,italy,,74,801,unknown,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,1,,,,spontaneous
+10002737,20241001,france,,67,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,recovering/resolving,serious,,,,,1,spontaneous
+10002748,20250302,italy,,63,801,male,BISOPROLOL FUMARATE,suspect,Headache,fatal,serious,1,,,,,spontaneous
+10002753,20250118,united states,,65,801,male,BISOPROLOL FUMARATE,suspect,Atrioventricular block,recovering/resolving,serious,,1,,,,spontaneous
+10002762,20241219,united kingdom,,93,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,recovering/resolving,serious,,1,,,,spontaneous
+10002765,20240707,japan,,81,801,female,BISOPROLOL FUMARATE,suspect,Dyspnoea,recovered/resolved with sequelae,serious,,,,,,other
+10002772,20250320,canada,,77,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovering/resolving,serious,,,,,1,other
+10002779,20241215,united states,,77,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,unknown,serious,,1,,,,spontaneous
+10002786,20250507,united states,,45,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,unknown,serious,,,,,,spontaneous
+10002796,20250112,canada,,64,801,female,BISOPROLOL FUMARATE,suspect,Death,recovered/resolved with sequelae,serious,1,,,,,spontaneous
+10002804,20241103,united states,,78,801,male,BISOPROLOL FUMARATE,suspect,Drug ineffective,recovered/resolved,serious,,1,,,,spontaneous
+10002807,20241219,canada,,73,801,female,BISOPROLOL FUMARATE,suspect,Depression,not recovered/not resolved,serious,,1,,,,spontaneous
+10002814,20250617,france,,42,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,unknown,serious,,,,,1,spontaneous
+10002825,20250330,germany,,72,801,male,BISOPROLOL FUMARATE,suspect,Dyspnoea,unknown,serious,,1,,,1,spontaneous
+10002831,20250215,united kingdom,,64,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,1,,,,other
+10002837,20250417,united states,,71,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,1,,,1,spontaneous
+10002845,20250212,united states,,83,801,male,BISOPROLOL FUMARATE,suspect,Dyspnoea,recovering/resolving,serious,,1,,,,spontaneous
+10002850,20250103,united states,,55,801,male,BISOPROLOL FUMARATE,suspect,Nausea,fatal,serious,1,,,,,spontaneous
+10002856,20240718,united states,,85,801,female,BISOPROLOL FUMARATE,suspect,Rash,recovered/resolved,serious,,1,,,,spontaneous
+10002856,20240718,united states,,85,801,female,BISOPROLOL FUMARATE,suspect,Headache,recovered/resolved,serious,,1,,,,spontaneous
+10002866,20241106,united kingdom,,75,801,unknown,BISOPROLOL FUMARATE,suspect,Dizziness,recovering/resolving,serious,,1,1,,,other
+10002874,20240903,united kingdom,,61,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,,,,,spontaneous
+10002879,20250127,spain,,81,801,male,BISOPROLOL FUMARATE,suspect,Syncope,fatal,serious,1,,,,1,spontaneous
+10002886,20250611,united kingdom,,71,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,not recovered/not resolved,serious,,,1,,1,report from study
+10002895,20250115,united states,,71,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,not recovered/not resolved,serious,,1,,,1,spontaneous
+10002902,20241128,united states,,53,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved with sequelae,serious,,,,,,spontaneous
+10002907,20241229,japan,,70,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,,,,1,spontaneous
+10002912,20250429,germany,,49,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,not recovered/not resolved,serious,,,,1,1,spontaneous
+10002923,20250127,united states,,57,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,not recovered/not resolved,serious,,1,,,,other
+10002930,20250618,japan,,81,801,male,BISOPROLOL FUMARATE,suspect,Atrioventricular block,unknown,serious,,,,,,spontaneous
+10002933,20250514,united states,,94,801,female,BISOPROLOL FUMARATE,suspect,Hyperkalaemia,unknown,serious,,,,,,spontaneous
+10002944,20250608,italy,,74,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,not recovered/not resolved,serious,,1,,,1,spontaneous
+10002951,20250104,france,,48,801,male,BISOPROLOL FUMARATE,suspect,Drug ineffective,recovered/resolved with sequelae,serious,,1,,,1,spontaneous
+10002955,20241226,canada,,59,801,female,BISOPROLOL FUMARATE,suspect,Fall,recovered/resolved,serious,,1,1,,,spontaneous
+10002964,20241008,united states,,65,801,female,BISOPROLOL FUMARATE,suspect,Cardiac failure,not recovered/not resolved,serious,,,,,1,spontaneous
+10002968,20250625,united kingdom,,70,801,female,BISOPROLOL FUMARATE,suspect,Atrioventricular block,recovered/resolved,serious,,1,,,,spontaneous
+10002979,20240804,spain,,60,801,female,BISOPROLOL FUMARATE,suspect,Dyspnoea,recovered/resolved with sequelae,serious,,1,,,1,spontaneous
+10002986,20250524,united states,,72,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,fatal,serious,1,,,,1,spontaneous
+10002989,20240728,united states,,64,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,fatal,serious,1,,,,,spontaneous
+10002996,20250109,united states,,82,801,unknown,BISOPROLOL FUMARATE,suspect,Dizziness,not recovered/not resolved,serious,,1,,,1,spontaneous
+10003007,20250112,united states,,57,801,unknown,BISOPROLOL FUMARATE,suspect,Fatigue,unknown,serious,,1,1,,1,spontaneous
+10003012,20241128,japan,,70,801,female,BISOPROLOL FUMARATE,suspect,Headache,recovering/resolving,serious,,1,,,,spontaneous
+10003017,20241123,france,,76,801,female,BISOPROLOL FUMARATE,suspect,Hyperkalaemia,recovered/resolved,serious,,,,,,other
+10003026,20250313,japan,,54,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,,,,,spontaneous
+10003026,20250313,germany,,54,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved,serious,,,,,,spontaneous
+10003035,20241203,united kingdom,,77,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,not recovered/not resolved,serious,,,1,,,spontaneous
+10003039,20241123,united states,,71,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,1,,,,spontaneous
+10003045,20250130,united states,,62,801,female,BISOPROLOL FUMARATE,suspect,Nausea,recovering/resolving,serious,,,,,,spontaneous
+10003055,20250417,germany,,90,801,male,BISOPROLOL FUMARATE,suspect,Rash,recovering/resolving,serious,,,,,,spontaneous
+10003060,20241125,germany,,58,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,1,,,,spontaneous
+10003067,20240923,japan,,69,801,female,BISOPROLOL FUMARATE,suspect,Cerebral haemorrhage,not recovered/not resolved,serious,,1,,,,spontaneous
+10003073,20250101,united states,,53,801,female,BISOPROLOL FUMARATE,suspect,Dyspnoea,unknown,serious,,,,,1,spontaneous
+10003081,20250427,canada,,95,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,1,,,,spontaneous
+10003088,20240928,united states,,88,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,fatal,serious,1,,,,,spontaneous
+10003098,20250531,united states,,83,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,unknown,serious,,,,,,spontaneous
+10003104,20240804,france,,51,801,female,BISOPROLOL FUMARATE,suspect,Headache,recovered/resolved,serious,,1,,,1,spontaneous
+10003108,20250304,united kingdom,,82,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved,serious,,1,,,,spontaneous
+10003119,20250412,france,,77,801,male,BISOPROLOL FUMARATE,suspect,Atrioventricular block,not recovered/not resolved,serious,,1,,,,spontaneous
+10003125,20241028,germany,,73,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,recovered/resolved,serious,,1,1,,,spontaneous
+10003131,20250228,france,,44,801,female,BISOPROLOL FUMARATE,suspect,Fall,recovered/resolved,serious,,,,,,other
+10003137,20250406,germany,,64,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,recovering/resolving,serious,,,1,1,,spontaneous
+10003144,20241001,france,,79,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,unknown,serious,,1,,,,spontaneous
+10003152,20250217,italy,,75,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,,,,,other
+10003158,20250211,united states,,46,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved with sequelae,serious,,1,,,,spontaneous
+10003165,20240705,japan,,54,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,unknown,serious,,1,,,,spontaneous
+10003171,20250508,united states,,61,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,recovering/resolving,serious,,1,,,,spontaneous
+10003180,20240917,united states,,59,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,recovered/resolved with sequelae,serious,,,,,1,report from study
+10003186,20240805,australia,,99,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,,,,,other
+10003195,20240722,united states,,53,801,male,BISOPROLOL FUMARATE,suspect,Dyspnoea,recovered/resolved,serious,,,,,,spontaneous
+10003195,20240722,united states,,53,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,1,,1,,spontaneous
+10003203,20250522,united states,,49,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,fatal,serious,1,,,,,other
+10003206,20241203,germany,,82,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved,serious,,,,,1,spontaneous
+10003217,20250620,united states,,66,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovering/resolving,serious,,1,,,,other
+10003220,20250506,united states,,91,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,unknown,serious,,1,,,,report from study
+10003230,20240920,united kingdom,,49,801,female,BISOPROLOL FUMARATE,suspect,Atrioventricular block,recovered/resolved,serious,,1,,,1,spontaneous
+10003238,20241122,spain,,67,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,unknown,serious,,,,,,spontaneous
+10003243,20241228,spain,,90,801,female,BISOPROLOL FUMARATE,suspect,Headache,unknown,serious,,1,,,,spontaneous
+10003248,20241216,italy,,99,801,female,BISOPROLOL FUMARATE,suspect,Cerebral haemorrhage,recovered/resolved,serious,,1,,,,other
+10003255,20241009,united states,,86,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,not recovered/not resolved,serious,,,,,1,spontaneous
+10003264,20250202,united states,,66,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,unknown,serious,,1,,,1,spontaneous
+10003270,20241113,canada,,99,801,male,BISOPROLOL FUMARATE,suspect,Bronchospasm,unknown,serious,,1,,,1,spontaneous
+10003280,20250104,united kingdom,,70,801,female,BISOPROLOL FUMARATE,suspect,Hyperkalaemia,recovered/resolved,serious,,1,,,1,spontaneous
+10003286,20250320,united states,,48,801,male,BISOPROLOL FUMARATE,suspect,Dyspnoea,fatal,serious,1,,,,1,spontaneous
+10003290,20250612,australia,,66,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,unknown,serious,,,,,,spontaneous
+10003299,20250418,canada,,71,801,male,BISOPROLOL FUMARATE,suspect,Atrioventricular block,unknown,serious,,1,,,,spontaneous
+10003305,20250404,united states,,76,801,female,BISOPROLOL FUMARATE,suspect,Hyperkalaemia,unknown,serious,,1,,,,spontaneous
+10003313,20241110,united states,,62,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,1,,,,other
+10003318,20250426,canada,,72,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,,,,,spontaneous
+10003327,20250623,australia,,87,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,recovering/resolving,serious,,1,,,,spontaneous
+10003332,20240711,united states,,66,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,unknown,serious,,1,,,1,other
+10003341,20250219,united states,,73,801,female,BISOPROLOL FUMARATE,suspect,Rash,fatal,serious,1,,,,1,spontaneous
+10003348,20250404,united kingdom,,61,801,female,BISOPROLOL FUMARATE,suspect,Syncope,recovered/resolved,serious,,1,,,,spontaneous
+10003356,20250214,united states,,57,801,female,BISOPROLOL FUMARATE,suspect,Hyperkalaemia,recovered/resolved,serious,,1,,,1,spontaneous
+10003361,20250624,germany,,71,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,not recovered/not resolved,serious,,1,,,1,spontaneous
+10003361,20250624,japan,,71,801,male,BISOPROLOL FUMARATE,suspect,Atrioventricular block,not recovered/not resolved,serious,,1,,,,spontaneous
+10003367,20250115,japan,,90,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,1,,,1,report from study
+10003375,20241126,france,,34,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,fatal,serious,1,,,,,spontaneous
+10003385,20250621,united kingdom,,52,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,recovering/resolving,serious,,,,,1,spontaneous
+10003392,20240916,united states,,85,801,male,BISOPROLOL FUMARATE,suspect,Dyspnoea,recovered/resolved,serious,,,,,1,spontaneous
+10003397,20250405,france,,70,801,unknown,BISOPROLOL FUMARATE,suspect,Acute kidney injury,not recovered/not resolved,serious,,,,,,spontaneous
+10003402,20250330,united kingdom,,51,801,male,BISOPROLOL FUMARATE,suspect,Rash,recovered/resolved with sequelae,serious,,,,,1,spontaneous
+10003413,20250303,germany,,53,801,male,BISOPROLOL FUMARATE,suspect,Headache,recovering/resolving,serious,,,,,,spontaneous
+10003416,20241201,united states,,73,801,male,BISOPROLOL FUMARATE,suspect,Headache,recovered/resolved with sequelae,serious,,1,,,,spontaneous
+10003425,20240810,united states,,59,801,female,BISOPROLOL FUMARATE,suspect,Rash,unknown,serious,,1,,,,spontaneous
+10003434,20250511,united states,,46,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,1,,,,report from study
+10003439,20241021,united states,,80,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,1,,,,spontaneous
+10003444,20250523,germany,,51,801,male,BISOPROLOL FUMARATE,suspect,Nausea,not recovered/not resolved,serious,,1,,,1,spontaneous
+10003454,20250430,spain,,78,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,recovering/resolving,serious,,,,,1,spontaneous
+10003460,20250328,united states,,45,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,,,,,spontaneous
+10003467,20250126,united states,,77,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved,serious,,,,,1,spontaneous
+10003475,20240902,italy,,98,801,female,BISOPROLOL FUMARATE,suspect,Bronchospasm,unknown,serious,,,,,1,spontaneous
+10003480,20250113,germany,,47,801,female,BISOPROLOL FUMARATE,suspect,Headache,recovered/resolved,serious,,1,,,,other
+10003486,20250621,united states,,66,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved,serious,,,,,1,spontaneous
+10003497,20241223,canada,,63,801,male,BISOPROLOL FUMARATE,suspect,Syncope,recovered/resolved,serious,,1,,,,other
+10003501,20241014,united states,,55,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,fatal,serious,1,,1,1,,spontaneous
+10003511,20250610,united kingdom,,36,801,female,BISOPROLOL FUMARATE,suspect,Dyspnoea,recovered/resolved,serious,,,,,1,spontaneous
+10003514,20250101,united kingdom,,61,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,not recovered/not resolved,serious,,1,,,1,spontaneous
+10003521,20250111,united states,,96,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,not recovered/not resolved,serious,,1,,,,spontaneous
+10003529,20240730,united states,,48,801,male,BISOPROLOL FUMARATE,suspect,Headache,unknown,serious,,1,,,,spontaneous
+10003529,20240730,canada,,48,801,male,BISOPROLOL FUMARATE,suspect,Rash,unknown,serious,,,,,1,other
+10003539,20250302,united states,,76,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,not recovered/not resolved,serious,,,1,,1,spontaneous
+10003544,20250315,germany,,48,801,male,BISOPROLOL FUMARATE,suspect,Rash,unknown,serious,,1,,,1,spontaneous
+10003549,20250531,spain,,70,801,unknown,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,,,,,spontaneous
+10003556,20241220,united states,,78,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,recovered/resolved,serious,,,,,,spontaneous
+10003563,20241104,canada,,48,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved with sequelae,serious,,1,,,,spontaneous
+10003570,20250120,germany,,72,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,fatal,serious,1,,,,,spontaneous
+10003580,20250514,japan,,99,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,unknown,serious,,,,,1,other
+10003588,20250513,united states,,72,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,recovered/resolved,serious,,,,,,spontaneous
+10003591,20240713,france,,57,801,unknown,BISOPROLOL FUMARATE,suspect,Dizziness,unknown,serious,,,1,,1,spontaneous
+10003602,20250425,united kingdom,,50,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,not recovered/not resolved,serious,,,,,1,spontaneous
+10003609,20240719,france,,81,801,female,BISOPROLOL FUMARATE,suspect,Cardiac failure,recovered/resolved,serious,,1,,,,spontaneous
+10003613,20250102,united states,,67,801,male,BISOPROLOL FUMARATE,suspect,Syncope,recovered/resolved,serious,,1,,,,spontaneous
+10003620,20250120,united states,,76,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved,serious,,,,,,spontaneous
+10003627,20250524,united kingdom,,63,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,1,,,,spontaneous
+10003636,20250616,united states,,64,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,unknown,serious,,,,,,spontaneous
+10003640,20250419,italy,,76,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,unknown,serious,,,,,1,spontaneous
+10003651,20250222,united states,,75,801,female,BISOPROLOL FUMARATE,suspect,Depression,unknown,serious,,1,,,1,other
+10003656,20241114,united states,,80,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,unknown,serious,,1,,1,,spontaneous
+10003661,20250601,canada,,67,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,recovered/resolved,serious,,,,,,spontaneous
+10003668,20241227,united kingdom,,69,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovering/resolving,serious,,,,,,spontaneous
+10003677,20250224,united kingdom,,76,801,female,BISOPROLOL FUMARATE,suspect,Syncope,recovered/resolved,serious,,,,,,spontaneous
+10003682,20250313,united kingdom,,67,801,male,BISOPROLOL FUMARATE,suspect,Syncope,recovered/resolved,serious,,1,,,1,report from study
+10003692,20241118,united kingdom,,84,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,,,,,spontaneous
+10003697,20250312,united kingdom,,61,801,male,BISOPROLOL FUMARATE,suspect,Dyspnoea,unknown,serious,,1,,,,spontaneous
+10003697,20250312,united kingdom,,61,801,male,BISOPROLOL FUMARATE,suspect,Hyperkalaemia,unknown,serious,,1,1,,,spontaneous
+10003706,20250301,france,,53,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,recovered/resolved with sequelae,serious,,1,,,,spontaneous
+10003711,20250419,germany,,63,801,female,BISOPROLOL FUMARATE,suspect,Fall,unknown,serious,,1,1,,,spontaneous
+10003721,20240705,spain,,64,801,male,BISOPROLOL FUMARATE,suspect,Cardiac failure,unknown,serious,,1,,1,1,spontaneous
+10003726,20250529,united states,,74,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,unknown,serious,,1,,,,spontaneous
+10003732,20241113,france,,37,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,1,,,1,spontaneous
+10003741,20241208,united states,,77,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,fatal,serious,1,,,,,spontaneous
+10003749,20250525,united kingdom,,65,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,not recovered/not resolved,serious,,1,,,,other
+10003755,20250112,australia,,55,801,male,BISOPROLOL FUMARATE,suspect,Dyspnoea,not recovered/not resolved,serious,,1,1,,,spontaneous
+10003762,20250227,germany,,50,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,1,,,1,spontaneous
+10003769,20250601,france,,67,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved,serious,,,1,,,spontaneous
+10003773,20250228,spain,,54,801,female,BISOPROLOL FUMARATE,suspect,Bronchospasm,recovering/resolving,serious,,1,1,,1,spontaneous
+10003782,20250619,italy,,85,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,,,,,spontaneous
+10003787,20241015,italy,,66,801,female,BISOPROLOL FUMARATE,suspect,Syncope,unknown,serious,,,,,,spontaneous
+10003798,20241123,united states,,55,801,female,BISOPROLOL FUMARATE,suspect,Atrioventricular block,unknown,serious,,1,,,,other
+10003801,20250626,united states,,67,801,male,BISOPROLOL FUMARATE,suspect,Atrioventricular block,unknown,serious,,,,,,spontaneous
+10003811,20250618,germany,,67,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved,serious,,1,,,1,spontaneous
+10003818,20241231,united states,,77,801,female,BISOPROLOL FUMARATE,suspect,Syncope,recovering/resolving,serious,,1,,,,spontaneous
+10003825,20250626,canada,,66,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,unknown,serious,,,,,,other
+10003832,20241005,australia,,69,801,female,BISOPROLOL FUMARATE,suspect,Headache,recovered/resolved,serious,,1,,,,spontaneous
+10003837,20250525,italy,,95,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,1,,,,spontaneous
+10003845,20250126,united states,,77,801,male,BISOPROLOL FUMARATE,suspect,Cerebral haemorrhage,not recovered/not resolved,serious,,1,,,,spontaneous
+10003854,20240828,germany,,86,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,,,1,1,spontaneous
+10003861,20240711,united states,,54,801,male,BISOPROLOL FUMARATE,suspect,Atrioventricular block,recovering/resolving,serious,,,1,,1,spontaneous
+10003866,20241208,germany,,63,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,unknown,serious,,,,,1,spontaneous
+10003866,20241208,germany,,63,801,male,BISOPROLOL FUMARATE,suspect,Off label use,unknown,serious,,,,,,spontaneous
+10003875,20250515,united states,,69,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,unknown,serious,,,,,,spontaneous
+10003881,20250504,australia,,71,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,,,,,other
+10003886,20250306,united states,,66,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,unknown,serious,,,,1,1,spontaneous
+10003893,20250419,united states,,63,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,not recovered/not resolved,serious,,1,1,,1,spontaneous
+10003902,20240801,united states,,99,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,,,,,spontaneous
+10003907,20250618,united states,,47,801,female,BISOPROLOL FUMARATE,suspect,Dyspnoea,recovered/resolved,serious,,,,,,spontaneous
+10003914,20250210,japan,,86,801,female,BISOPROLOL FUMARATE,suspect,Drug ineffective,not recovered/not resolved,serious,,,,,,spontaneous
+10003920,20240810,australia,,72,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,recovered/resolved,serious,,1,,,1,spontaneous
+10003927,20250103,france,,39,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,not recovered/not resolved,serious,,1,,,1,other
+10003937,20250330,united states,,62,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,fatal,serious,1,,,,,spontaneous
+10003942,20240901,canada,,64,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved,serious,,,1,,,spontaneous
+10003951,20241022,united states,,91,801,male,BISOPROLOL FUMARATE,suspect,Atrioventricular block,recovered/resolved,serious,,1,,1,1,report from study
+10003959,20250219,united kingdom,,76,801,female,BISOPROLOL FUMARATE,suspect,Bronchospasm,recovered/resolved,serious,,1,,,1,spontaneous
+10003964,20250401,germany,,81,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovering/resolving,serious,,1,,,,spontaneous
+10003970,20250224,united states,,94,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,unknown,serious,,,,,,report from study
+10003978,20250412,united states,,86,801,female,BISOPROLOL FUMARATE,suspect,Cardiac failure,unknown,serious,,,,,,spontaneous
+10003987,20250605,united states,,63,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,unknown,serious,,1,,,1,spontaneous
+10003991,20250324,united states,,64,801,female,BISOPROLOL FUMARATE,suspect,Dyspnoea,recovering/resolving,serious,,1,,,,other
+10003997,20250120,japan,,78,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,not recovered/not resolved,serious,,1,,,,spontaneous
+10004005,20250316,spain,,63,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,unknown,serious,,1,1,,1,spontaneous
+10004012,20240704,germany,,78,801,male,BISOPROLOL FUMARATE,suspect,Cardiac failure,unknown,serious,,,,,1,report from study
+10004020,20250401,japan,,60,801,female,BISOPROLOL FUMARATE,suspect,Drug ineffective,unknown,serious,,1,,,,spontaneous
+10004028,20240925,united states,,81,801,female,BISOPROLOL FUMARATE,suspect,Drug ineffective,not recovered/not resolved,serious,,1,,,1,spontaneous
+10004036,20240822,united states,,77,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,1,,,,spontaneous
+10004036,20240822,france,,77,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,1,,,1,spontaneous
+10004039,20250225,france,,76,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,unknown,serious,,,,,,spontaneous
+10004050,20241213,japan,,72,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,1,,,1,report from study
+10004054,20240708,united states,,62,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,fatal,serious,1,,,,1,spontaneous
+10004064,20250414,united states,,66,801,male,BISOPROLOL FUMARATE,suspect,Drug ineffective,recovered/resolved with sequelae,serious,,1,,,1,report from study
+10004068,20240924,united states,,67,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,not recovered/not resolved,serious,,1,,1,,spontaneous
+10004074,20241012,united kingdom,,62,801,female,BISOPROLOL FUMARATE,suspect,Atrioventricular block,unknown,serious,,,,,,spontaneous
+10004083,20250529,united states,,78,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,not recovered/not resolved,serious,,1,,,,spontaneous
+10004088,20241203,united kingdom,,71,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,recovered/resolved,serious,,1,1,,,spontaneous
+10004096,20250324,united states,,67,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,,,,,spontaneous
+10004105,20240914,united states,,53,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,,,,,spontaneous
+10004111,20250325,canada,,75,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,unknown,serious,,1,,,,spontaneous
+10004120,20250125,spain,,64,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,recovering/resolving,serious,,,,,,spontaneous
+10004125,20250531,france,,69,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved with sequelae,serious,,,,,1,spontaneous
+10004133,20250116,united kingdom,,69,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,1,,,,spontaneous
+10004139,20250117,italy,,78,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,unknown,serious,,1,,,,spontaneous
+10004146,20240926,united states,,93,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,fatal,serious,1,,,,,spontaneous
+10004151,20240811,united states,,55,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,unknown,serious,,1,,,,spontaneous
+10004160,20240728,canada,,72,801,male,BISOPROLOL FUMARATE,suspect,Hyperkalaemia,unknown,serious,,1,,,1,spontaneous
+10004166,20250109,france,,52,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,recovering/resolving,serious,,1,1,,,spontaneous
+10004173,20250602,united states,,54,801,female,BISOPROLOL FUMARATE,suspect,Syncope,recovered/resolved,serious,,1,,,,spontaneous
+10004182,20250625,italy,,88,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,not recovered/not resolved,serious,,1,,,,spontaneous
+10004187,20240718,united kingdom,,67,801,male,BISOPROLOL FUMARATE,suspect,Off label use,recovering/resolving,serious,,1,1,,,spontaneous
+10004196,20241215,france,,64,801,male,BISOPROLOL FUMARATE,suspect,Nausea,recovered/resolved,serious,,1,,,,spontaneous
+10004203,20250410,united kingdom,,57,801,female,BISOPROLOL FUMARATE,suspect,Rash,recovered/resolved,serious,,,,,1,spontaneous
+10004203,20250410,united states,,57,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,1,,,,other
+10004209,20241114,united states,,80,801,female,BISOPROLOL FUMARATE,suspect,Atrioventricular block,recovered/resolved,serious,,1,,,1,spontaneous
+10004217,20240716,united kingdom,,73,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,1,,,,spontaneous
+10004221,20250301,germany,,60,801,female,BISOPROLOL FUMARATE,suspect,Dyspnoea,recovered/resolved,serious,,,,,1,other
+10004228,20250305,united kingdom,,68,801,male,BISOPROLOL FUMARATE,suspect,Dyspnoea,unknown,serious,,1,,,,spontaneous
+10004236,20250608,united states,,69,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved,serious,,1,,,1,spontaneous
+10004245,20240924,united states,,61,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,unknown,serious,,1,,,,spontaneous
+10004250,20240719,germany,,71,801,unknown,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,1,,,,spontaneous
+10004257,20250201,france,,61,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,recovering/resolving,serious,,1,,,1,spontaneous
+10004266,20250608,italy,,41,801,male,BISOPROLOL FUMARATE,suspect,Headache,recovered/resolved,serious,,,1,,1,report from study
+10004271,20250627,united states,,63,801,male,BISOPROLOL FUMARATE,suspect,Bronchospasm,unknown,serious,,,,,,spontaneous
+10004281,20250124,spain,,80,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,recovered/resolved with sequelae,serious,,,,,,spontaneous
+10004285,20250429,united states,,44,801,unknown,BISOPROLOL FUMARATE,suspect,Drug ineffective,not recovered/not resolved,serious,,1,,,1,other
+10004291,20241003,united states,,44,801,unknown,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved with sequelae,serious,,1,1,,1,spontaneous
+10004299,20240926,united states,,82,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,unknown,serious,,1,,,,report from study
+10004307,20241203,italy,,68,801,male,BISOPROLOL FUMARATE,suspect,Dyspnoea,recovered/resolved,serious,,,,1,,report from study
+10004314,20240912,japan,,70,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved,serious,,1,,,,spontaneous
+10004320,20241222,canada,,62,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,unknown,serious,,,,,,spontaneous
+10004328,20250213,united states,,58,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,not recovered/not resolved,serious,,,,1,,spontaneous
+10004333,20240727,united states,,67,801,female,BISOPROLOL FUMARATE,suspect,Dyspnoea,fatal,serious,1,,,,,spontaneous
+10004341,20250405,italy,,57,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,unknown,serious,,1,,,1,spontaneous
+10004350,20250628,united states,,64,801,female,BISOPROLOL FUMARATE,suspect,Drug ineffective,recovered/resolved,serious,,1,,1,,spontaneous
+10004356,20241024,spain,,58,801,female,BISOPROLOL FUMARATE,suspect,Rash,recovered/resolved,serious,,1,,,,spontaneous
+10004361,20250615,united kingdom,,54,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovering/resolving,serious,,1,,,1,spontaneous
+10004368,20240910,united states,,97,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,unknown,serious,,,,,,report from study
+10004368,20240910,united states,,97,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,unknown,serious,,,,,,report from study
+10004379,20250420,united states,,72,801,unknown,BISOPROLOL FUMARATE,suspect,Dizziness,not recovered/not resolved,serious,,1,,,1,spontaneous
+10004386,20250412,italy,,73,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,unknown,serious,,,,,1,spontaneous
+10004390,20241111,united states,,69,801,male,BISOPROLOL FUMARATE,suspect,Syncope,not recovered/not resolved,serious,,1,,,,spontaneous
+10004399,20240905,united kingdom,,70,801,female,BISOPROLOL FUMARATE,suspect,Syncope,not recovered/not resolved,serious,,,,,,spontaneous
+10004407,20240707,united states,,65,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,fatal,serious,1,,,,,spontaneous
+10004414,20250218,united states,,67,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,unknown,serious,,,,,,spontaneous
+10004418,20250306,united states,,69,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,,,,,spontaneous
+10004425,20241108,italy,,75,801,female,BISOPROLOL FUMARATE,suspect,Atrioventricular block,unknown,serious,,1,,,,other
+10004433,20241119,united states,,70,801,male,BISOPROLOL FUMARATE,suspect,Bronchospasm,unknown,serious,,,,,,spontaneous
+10004438,20250228,united kingdom,,95,801,female,BISOPROLOL FUMARATE,suspect,Dyspnoea,recovered/resolved,serious,,,,,,spontaneous
+10004447,20241216,united kingdom,,78,801,male,BISOPROLOL FUMARATE,suspect,Cardiac failure,unknown,serious,,1,,,1,spontaneous
+10004452,20240827,france,,76,801,female,BISOPROLOL FUMARATE,suspect,Bronchospasm,fatal,serious,1,,,,1,spontaneous
+10004463,20240822,united states,,78,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,1,,,,spontaneous
+10004469,20250403,united states,,77,801,unknown,BISOPROLOL FUMARATE,suspect,Cardiac failure,unknown,serious,,1,,,,spontaneous
+10004474,20250323,spain,,70,801,male,BISOPROLOL FUMARATE,suspect,Rash,not recovered/not resolved,serious,,,,,1,spontaneous
+10004482,20250120,germany,,71,801,female,BISOPROLOL FUMARATE,suspect,Drug ineffective,recovered/resolved with sequelae,serious,,,,,1,report from study
+10004491,20250326,united states,,73,801,female,BISOPROLOL FUMARATE,suspect,Bronchospasm,fatal,serious,1,,,,1,spontaneous
+10004498,20241212,united kingdom,,83,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,not recovered/not resolved,serious,,,,,1,spontaneous
+10004504,20250130,united states,,99,801,male,BISOPROLOL FUMARATE,suspect,Fall,recovered/resolved,serious,,1,,,,spontaneous
+10004510,20250311,japan,,67,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,recovering/resolving,serious,,1,,1,,spontaneous
+10004518,20250328,united states,,70,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved,serious,,,,,1,report from study
+10004525,20240912,spain,,86,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,recovered/resolved,serious,,,,,1,spontaneous
+10004529,20240813,france,,84,801,female,BISOPROLOL FUMARATE,suspect,Fall,fatal,serious,1,,,,,report from study
+10004537,20240810,united states,,85,801,male,BISOPROLOL FUMARATE,suspect,Syncope,recovered/resolved,serious,,1,1,,1,spontaneous
+10004537,20240810,germany,,85,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,,,,,spontaneous
+10004547,20250114,united states,,63,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,recovered/resolved,serious,,1,,,1,spontaneous
+10004551,20250105,france,,68,801,female,BISOPROLOL FUMARATE,suspect,Syncope,recovering/resolving,serious,,,1,,,other
+10004557,20240727,italy,,61,801,unknown,BISOPROLOL FUMARATE,suspect,Rash,recovering/resolving,serious,,1,,,,other
+10004568,20241027,france,,63,801,male,BISOPROLOL FUMARATE,suspect,Rash,unknown,serious,,,,,1,spontaneous
+10004575,20241122,spain,,80,801,male,BISOPROLOL FUMARATE,suspect,Fall,unknown,serious,,1,,1,,report from study
+10004578,20250506,united states,,89,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,unknown,serious,,,,,,spontaneous
+10004589,20241029,united states,,55,801,female,BISOPROLOL FUMARATE,suspect,Dyspnoea,recovering/resolving,serious,,,,,1,spontaneous
+10004592,20250322,spain,,69,801,male,BISOPROLOL FUMARATE,suspect,Drug ineffective,recovered/resolved,serious,,1,,,,spontaneous
+10004602,20250625,france,,53,801,male,BISOPROLOL FUMARATE,suspect,Atrioventricular block,recovered/resolved,serious,,1,,,1,spontaneous
+10004608,20241215,united states,,67,801,female,BISOPROLOL FUMARATE,suspect,Cardiac failure,unknown,serious,,1,,,,spontaneous
+10004614,20250504,germany,,99,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovering/resolving,serious,,1,,,1,spontaneous
+10004620,20250113,united kingdom,,44,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,not recovered/not resolved,serious,,1,,,,other
+10004627,20240823,united states,,61,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,fatal,serious,1,,,,1,report from study
+10004636,20250607,united states,,89,801,female,BISOPROLOL FUMARATE,suspect,Rash,recovering/resolving,serious,,,,,,spontaneous
+10004645,20250611,italy,,52,801,male,BISOPROLOL FUMARATE,suspect,Dyspnoea,recovering/resolving,serious,,,,,,spontaneous
+10004650,20250427,united states,,87,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,,,,1,spontaneous
+10004655,20241227,australia,,47,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovering/resolving,serious,,1,,,,report from study
+10004665,20250613,spain,,59,801,male,BISOPROLOL FUMARATE,suspect,Syncope,unknown,serious,,1,,1,,spontaneous
+10004672,20250108,united states,,70,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,unknown,serious,,1,,,1,spontaneous
+10004679,20250525,united states,,57,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved,serious,,1,,,,spontaneous
+10004685,20250302,united states,,82,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,unknown,serious,,1,,,,spontaneous
+10004691,20250216,japan,,63,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovering/resolving,serious,,1,,,,spontaneous
+10004699,20250201,united states,,53,801,female,BISOPROLOL FUMARATE,suspect,Atrioventricular block,unknown,serious,,,,,1,spontaneous
+10004704,20250327,france,,75,801,male,BISOPROLOL FUMARATE,suspect,Rash,fatal,serious,1,,,,,spontaneous
+10004704,20250327,united states,,75,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,fatal,serious,1,,,,,report from study
+10004715,20250421,australia,,72,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,unknown,serious,,1,,,,spontaneous
+10004720,20241212,france,,52,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,,,,,spontaneous
+10004726,20241022,united kingdom,,70,801,male,BISOPROLOL FUMARATE,suspect,Death,recovering/resolving,serious,1,,,1,,spontaneous
+10004735,20250223,united states,,70,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved,serious,,1,,,,spontaneous
+10004743,20240801,united states,,91,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovering/resolving,serious,,1,,,1,other
+10004749,20250605,united states,,85,801,unknown,BISOPROLOL FUMARATE,suspect,Hyperkalaemia,recovered/resolved,serious,,,,,,report from study
+10004756,20240918,united states,,76,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,,,,,spontaneous
+10004761,20250605,united states,,55,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,unknown,serious,,,,,1,spontaneous
+10004770,20250426,united kingdom,,54,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved with sequelae,serious,,,,,1,report from study
+10004777,20240805,germany,,60,801,female,BISOPROLOL FUMARATE,suspect,Syncope,recovered/resolved,serious,,,,,,spontaneous
+10004781,20250308,united kingdom,,71,801,female,BISOPROLOL FUMARATE,suspect,Dyspnoea,recovering/resolving,serious,,1,,,,spontaneous
+10004790,20250411,australia,,57,801,female,BISOPROLOL FUMARATE,suspect,Syncope,recovered/resolved,serious,,,,,,spontaneous
+10004797,20250118,germany,,71,801,female,BISOPROLOL FUMARATE,suspect,Syncope,recovered/resolved,serious,,,,,1,spontaneous
+10004803,20250525,united states,,78,801,female,BISOPROLOL FUMARATE,suspect,Dyspnoea,not recovered/not resolved,serious,,,,,,other
+10004809,20250404,canada,,79,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved,serious,,1,,,,spontaneous
+10004817,20241017,france,,57,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,1,,,,spontaneous
+10004823,20240706,united states,,64,801,male,BISOPROLOL FUMARATE,suspect,Dyspnoea,unknown,serious,,,,1,,spontaneous
+10004833,20250123,united states,,59,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved with sequelae,serious,,1,,1,,spontaneous
+10004837,20240807,italy,,41,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,1,,,,spontaneous
+10004848,20250630,united kingdom,,76,801,male,BISOPROLOL FUMARATE,suspect,Death,unknown,serious,1,,1,,,other
+10004852,20250101,united states,,82,801,unknown,BISOPROLOL FUMARATE,suspect,Bradycardia,unknown,serious,,1,,,,spontaneous
+10004862,20250120,australia,,53,801,male,BISOPROLOL FUMARATE,suspect,Drug ineffective,unknown,serious,,1,,,1,spontaneous
+10004868,20250606,france,,60,801,female,BISOPROLOL FUMARATE,suspect,Atrioventricular block,recovering/resolving,serious,,1,,,,spontaneous
+10004872,20250622,germany,,72,801,male,BISOPROLOL FUMARATE,suspect,Nausea,recovered/resolved,serious,,,,,,spontaneous
+10004872,20250622,spain,,72,801,male,BISOPROLOL FUMARATE,suspect,Bronchospasm,recovered/resolved,serious,,1,,,1,spontaneous
+10004881,20240711,united states,,65,801,unknown,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved with sequelae,serious,,,,,,spontaneous
+10004889,20240903,france,,66,801,female,BISOPROLOL FUMARATE,suspect,Syncope,recovered/resolved,serious,,1,,,1,spontaneous
+10004895,20250503,united states,,84,801,female,BISOPROLOL FUMARATE,suspect,Headache,not recovered/not resolved,serious,,,,,1,spontaneous
+10004903,20241108,spain,,77,801,female,BISOPROLOL FUMARATE,suspect,Fall,unknown,serious,,,,,1,spontaneous
+10004911,20240804,germany,,58,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,not recovered/not resolved,serious,,,,,1,report from study
+10004916,20241214,united states,,61,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved with sequelae,serious,,,,,,spontaneous
+10004925,20250226,canada,,57,801,female,BISOPROLOL FUMARATE,suspect,Fall,unknown,serious,,1,1,,1,spontaneous
+10004931,20250213,united kingdom,,77,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,recovering/resolving,serious,,,,,1,spontaneous
+10004937,20250510,united states,,41,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,unknown,serious,,,,,,other
+10004942,20250105,germany,,71,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved,serious,,,,,,spontaneous
+10004950,20250312,japan,,99,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,not recovered/not resolved,serious,,1,,,1,other
+10004956,20240716,united states,,60,801,male,BISOPROLOL FUMARATE,suspect,Nausea,unknown,serious,,,,,,spontaneous
+10004965,20250516,united states,,68,801,male,BISOPROLOL FUMARATE,suspect,Nausea,unknown,serious,,1,,,,spontaneous
+10004974,20250625,canada,,71,801,male,BISOPROLOL FUMARATE,suspect,Depression,recovered/resolved,serious,,,,,,spontaneous
+10004977,20241104,united kingdom,,32,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,not recovered/not resolved,serious,,1,,,,spontaneous
+10004987,20241121,france,,51,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,recovering/resolving,serious,,1,,,,spontaneous
+10004995,20250217,united states,,71,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,fatal,serious,1,,,,,spontaneous
+10005001,20250404,united kingdom,,87,801,female,BISOPROLOL FUMARATE,suspect,Hyperkalaemia,recovered/resolved,serious,,,1,,,other
+10005007,20250418,japan,,78,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,not recovered/not resolved,serious,,1,,,,spontaneous
+10005015,20250523,australia,,81,801,female,BISOPROLOL FUMARATE,suspect,Hyperkalaemia,recovered/resolved,serious,,,,,1,spontaneous
+10005023,20240705,united states,,65,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,1,,,,spontaneous
+10005029,20240915,france,,82,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,unknown,serious,,,,,,spontaneous
+10005035,20250522,spain,,60,801,male,BISOPROLOL FUMARATE,suspect,Drug ineffective,not recovered/not resolved,serious,,1,,,1,spontaneous
+10005044,20241106,united kingdom,,75,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved with sequelae,serious,,,,,1,spontaneous
+10005044,20241106,germany,,75,801,male,BISOPROLOL FUMARATE,suspect,Fall,recovered/resolved with sequelae,serious,,1,,,,spontaneous
+10005047,20250212,united states,,50,801,female,BISOPROLOL FUMARATE,suspect,Headache,recovered/resolved,serious,,,,,1,spontaneous
+10005054,20241127,united kingdom,,56,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,fatal,serious,1,,,,1,report from study
+10005062,20240727,japan,,59,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,fatal,serious,1,,,,,spontaneous
+10005068,20240927,united states,,59,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,not recovered/not resolved,serious,,1,,,1,report from study
+10005077,20241205,united kingdom,,55,801,female,BISOPROLOL FUMARATE,suspect,Syncope,fatal,serious,1,,,,,spontaneous
+10005086,20250131,australia,,55,801,female,BISOPROLOL FUMARATE,suspect,Syncope,not recovered/not resolved,serious,,,,,1,other
+10005090,20250309,united states,,70,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,recovered/resolved,serious,,,,,1,spontaneous
+10005097,20250402,germany,,61,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,unknown,serious,,1,,,,spontaneous
+10005106,20250319,united states,,89,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,not recovered/not resolved,serious,,,,,,spontaneous
+10005110,20241125,united states,,98,801,female,BISOPROLOL FUMARATE,suspect,Atrioventricular block,recovering/resolving,serious,,,,,,spontaneous
+10005118,20250226,australia,,64,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,recovered/resolved,serious,,1,,,1,spontaneous
+10005125,20240730,united states,,76,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,unknown,serious,,,1,,,spontaneous
+10005134,20250619,united states,,56,801,female,BISOPROLOL FUMARATE,suspect,Hyperkalaemia,recovered/resolved,serious,,,,,,spontaneous
+10005140,20240901,united states,,63,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,recovering/resolving,serious,,,,,,spontaneous
+10005149,20240729,united kingdom,,59,801,female,BISOPROLOL FUMARATE,suspect,Drug ineffective,not recovered/not resolved,serious,,1,,,1,spontaneous
+10005155,20250216,united states,,75,801,female,BISOPROLOL FUMARATE,suspect,Dyspnoea,recovered/resolved with sequelae,serious,,1,,,,report from study
+10005162,20250112,united states,,80,801,male,BISOPROLOL FUMARATE,suspect,Atrioventricular block,fatal,serious,1,,,,,other
+10005166,20240924,united states,,88,801,male,BISOPROLOL FUMARATE,suspect,Headache,not recovered/not resolved,serious,,1,,,1,spontaneous
+10005173,20250502,germany,,74,801,female,BISOPROLOL FUMARATE,suspect,Dyspnoea,recovering/resolving,serious,,,,,1,spontaneous
+10005183,20241102,canada,,48,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,not recovered/not resolved,serious,,1,,,,spontaneous
+10005188,20250507,spain,,67,801,female,BISOPROLOL FUMARATE,suspect,Rash,not recovered/not resolved,serious,,,,,1,other
+10005197,20250304,united states,,99,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,not recovered/not resolved,serious,,1,,,1,spontaneous
+10005201,20240726,united kingdom,,56,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,fatal,serious,1,,,1,,spontaneous
+10005211,20240820,united states,,73,801,female,BISOPROLOL FUMARATE,suspect,Headache,unknown,serious,,,,,,report from study
+10005211,20240820,united states,,73,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,unknown,serious,,,,,1,spontaneous
+10005216,20241010,germany,,88,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,,,,1,spontaneous
+10005222,20240907,canada,,71,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,unknown,serious,,1,,,,spontaneous
+10005233,20250116,japan,,88,801,female,BISOPROLOL FUMARATE,suspect,Depression,unknown,serious,,1,1,,1,spontaneous
+10005238,20250125,united states,,52,801,male,BISOPROLOL FUMARATE,suspect,Rash,recovered/resolved,serious,,1,,,,spontaneous
+10005243,20250127,spain,,54,801,male,BISOPROLOL FUMARATE,suspect,Dyspnoea,recovering/resolving,serious,,1,,,,spontaneous
+10005253,20250127,france,,45,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,,,,1,spontaneous
+10005260,20250515,france,,79,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,not recovered/not resolved,serious,,1,,,,spontaneous
+10005267,20240922,united states,,64,801,male,BISOPROLOL FUMARATE,suspect,Cardiac failure,recovered/resolved,serious,,1,,,,spontaneous
+10005275,20250324,united states,,77,801,female,BISOPROLOL FUMARATE,suspect,Headache,recovered/resolved,serious,,,,,1,spontaneous
+10005279,20250518,germany,,64,801,male,BISOPROLOL FUMARATE,suspect,Bronchospasm,recovered/resolved,serious,,,,,1,other
+10005287,20250210,united states,,82,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved,serious,,1,,,1,spontaneous
+10005295,20250111,france,,44,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,,,,,spontaneous
+10005303,20250208,france,,80,801,male,BISOPROLOL FUMARATE,suspect,Atrioventricular block,not recovered/not resolved,serious,,1,,,,spontaneous
+10005310,20250615,france,,66,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved with sequelae,serious,,1,,,,spontaneous
+10005316,20250423,spain,,73,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovering/resolving,serious,,1,,,,spontaneous
+10005323,20241231,united states,,76,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,not recovered/not resolved,serious,,,,,,spontaneous
+10005327,20250605,united kingdom,,87,801,female,BISOPROLOL FUMARATE,suspect,Syncope,recovered/resolved,serious,,1,,,1,spontaneous
+10005337,20250324,united states,,55,801,female,BISOPROLOL FUMARATE,suspect,Bronchospasm,not recovered/not resolved,serious,,,,,,spontaneous
+10005342,20250322,japan,,63,801,male,BISOPROLOL FUMARATE,suspect,Off label use,recovered/resolved,serious,,1,,,,other
+10005349,20250319,italy,,78,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,fatal,serious,1,,,,,spontaneous
+10005358,20250512,united states,,85,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,,,1,1,spontaneous
+10005362,20241117,united states,,44,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,unknown,serious,,1,,,1,spontaneous
+10005372,20240717,germany,,49,801,male,BISOPROLOL FUMARATE,suspect,Cardiac failure,recovered/resolved,serious,,1,,,,spontaneous
+10005378,20241023,italy,,57,801,male,BISOPROLOL FUMARATE,suspect,Rash,recovering/resolving,serious,,,1,,1,spontaneous
+10005378,20241023,united states,,57,801,male,BISOPROLOL FUMARATE,suspect,Depression,recovering/resolving,serious,,,,,,spontaneous
+10005385,20250125,france,,80,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved,serious,,,,,1,spontaneous
+10005394,20250120,united kingdom,,73,801,male,BISOPROLOL FUMARATE,suspect,Syncope,not recovered/not resolved,serious,,1,,,,spontaneous
+10005401,20240814,united states,,53,801,female,BISOPROLOL FUMARATE,suspect,Headache,recovering/resolving,serious,,,,,,spontaneous
+10005404,20250515,japan,,55,801,female,BISOPROLOL FUMARATE,suspect,Bronchospasm,recovering/resolving,serious,,1,,,1,spontaneous
+10005415,20250220,united states,,74,801,female,BISOPROLOL FUMARATE,suspect,Drug ineffective,recovered/resolved,serious,,1,,,,spontaneous
+10005421,20250226,france,,75,801,female,BISOPROLOL FUMARATE,suspect,Headache,not recovered/not resolved,serious,,1,,,1,spontaneous
+10005425,20240807,united states,,75,801,female,BISOPROLOL FUMARATE,suspect,Nausea,recovered/resolved,serious,,,1,,,spontaneous
+10005432,20250204,italy,,65,801,female,BISOPROLOL FUMARATE,suspect,Cerebral haemorrhage,unknown,serious,,,,,1,other
+10005443,20250127,united states,,59,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,not recovered/not resolved,serious,,1,,,1,spontaneous
+10005446,20240825,australia,,86,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,unknown,serious,,1,,,,spontaneous
+10005454,20250218,united kingdom,,65,801,male,BISOPROLOL FUMARATE,suspect,Dyspnoea,recovered/resolved,serious,,1,,,,spontaneous
+10005461,20250324,united states,,48,801,female,BISOPROLOL FUMARATE,suspect,Syncope,not recovered/not resolved,serious,,1,,,,spontaneous
+10005470,20240812,japan,,69,801,female,BISOPROLOL FUMARATE,suspect,Cardiac failure,recovered/resolved,serious,,1,,,1,spontaneous
+10005474,20250421,united states,,70,801,female,BISOPROLOL FUMARATE,suspect,Fall,unknown,serious,,,,,,spontaneous
+10005484,20241225,united states,,86,801,female,BISOPROLOL FUMARATE,suspect,Drug ineffective,unknown,serious,,1,,,,report from study
+10005490,20250510,france,,64,801,female,BISOPROLOL FUMARATE,suspect,Depression,unknown,serious,,1,,,1,spontaneous
+10005499,20250118,united states,,56,801,unknown,BISOPROLOL FUMARATE,suspect,Dyspnoea,fatal,serious,1,,,,1,spontaneous
+10005503,20240720,france,,73,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,unknown,serious,,1,,,1,spontaneous
+10005513,20250123,united states,,72,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,1,,,,spontaneous
+10005519,20241227,canada,,66,801,female,BISOPROLOL FUMARATE,suspect,Rash,unknown,serious,,1,,,,spontaneous
+10005524,20250613,united states,,51,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,not recovered/not resolved,serious,,1,,,,spontaneous
+10005534,20250411,united kingdom,,77,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved,serious,,,,,1,spontaneous
+10005539,20240709,spain,,86,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,not recovered/not resolved,serious,,1,,,,spontaneous
+10005546,20240913,italy,,56,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,recovering/resolving,serious,,1,,,,spontaneous
+10005546,20240913,france,,56,801,male,BISOPROLOL FUMARATE,suspect,Hyperkalaemia,recovering/resolving,serious,,,,,,other
+10005554,20250531,united states,,71,801,male,BISOPROLOL FUMARATE,suspect,Bronchospasm,recovered/resolved,serious,,,,,1,spontaneous
+10005560,20250603,italy,,33,801,female,BISOPROLOL FUMARATE,suspect,Syncope,recovering/resolving,serious,,1,,1,,spontaneous
+10005567,20250226,spain,,41,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,1,,,,spontaneous
+10005573,20250416,germany,,79,801,male,BISOPROLOL FUMARATE,suspect,Cardiac failure,recovered/resolved with sequelae,serious,,1,,,,report from study
+10005581,20240823,united kingdom,,81,801,female,BISOPROLOL FUMARATE,suspect,Off label use,recovered/resolved,serious,,1,,,,spontaneous
+10005587,20250424,united kingdom,,62,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,unknown,serious,,1,,,,spontaneous
+10005593,20240701,france,,54,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovering/resolving,serious,,,,,,spontaneous
+10005604,20250507,germany,,50,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,,,,,spontaneous
+10005609,20250307,germany,,57,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,1,1,,,spontaneous
+10005614,20250212,united states,,62,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,,,,,other
+10005623,20240710,united states,,85,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,1,,,1,spontaneous
+10005630,20241018,united states,,84,801,male,BISOPROLOL FUMARATE,suspect,Nausea,recovered/resolved,serious,,1,,,,spontaneous
+10005636,20240706,united kingdom,,75,801,female,BISOPROLOL FUMARATE,suspect,Hyperkalaemia,unknown,serious,,1,,,,spontaneous
+10005646,20241103,japan,,96,801,female,BISOPROLOL FUMARATE,suspect,Cerebral haemorrhage,recovered/resolved,serious,,,,,1,spontaneous
+10005650,20241116,united states,,82,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,unknown,serious,,,,,1,spontaneous
+10005659,20250601,italy,,73,801,female,BISOPROLOL FUMARATE,suspect,Fall,recovered/resolved,serious,,1,,,1,spontaneous
+10005666,20250206,united states,,51,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,not recovered/not resolved,serious,,1,1,,1,spontaneous
+10005673,20241005,japan,,69,801,unknown,BISOPROLOL FUMARATE,suspect,Syncope,recovering/resolving,serious,,1,,,,spontaneous
+10005677,20250109,japan,,67,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,unknown,serious,,,,,,spontaneous
+10005685,20241115,united states,,74,801,male,BISOPROLOL FUMARATE,suspect,Off label use,recovering/resolving,serious,,1,,,,other
+10005693,20241017,united states,,58,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,1,,,1,spontaneous
+10005700,20250203,spain,,51,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,1,,,1,spontaneous
+10005708,20250315,united states,,64,801,female,BISOPROLOL FUMARATE,suspect,Atrioventricular block,not recovered/not resolved,serious,,,,,,other
+10005714,20250602,italy,,71,801,male,BISOPROLOL FUMARATE,suspect,Dyspnoea,recovered/resolved,serious,,,,,1,other
+10005714,20250602,spain,,71,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved,serious,,1,,,,report from study
+10005721,20250421,france,,55,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,not recovered/not resolved,serious,,1,,,1,other
+10005727,20240923,united states,,69,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,,,,,other
+10005733,20241220,united states,,81,801,female,BISOPROLOL FUMARATE,suspect,Fall,unknown,serious,,1,,,,report from study
+10005741,20250406,spain,,69,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved,serious,,1,,,,spontaneous
+10005747,20250331,united states,,99,801,male,BISOPROLOL FUMARATE,suspect,Dyspnoea,recovered/resolved,serious,,1,,,,report from study
+10005756,20250111,germany,,87,801,female,BISOPROLOL FUMARATE,suspect,Rash,not recovered/not resolved,serious,,,,,1,spontaneous
+10005764,20241128,united kingdom,,61,801,male,BISOPROLOL FUMARATE,suspect,Bronchospasm,unknown,serious,,1,,,,spontaneous
+10005768,20250210,united kingdom,,91,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,,,,,spontaneous
+10005776,20241016,japan,,54,801,female,BISOPROLOL FUMARATE,suspect,Drug ineffective,recovering/resolving,serious,,,,,,spontaneous
+10005784,20250116,italy,,91,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,unknown,serious,,1,,,,spontaneous
+10005792,20250208,united states,,61,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,not recovered/not resolved,serious,,1,1,,1,spontaneous
+10005797,20240711,australia,,70,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,unknown,serious,,,1,,1,spontaneous
+10005806,20250324,france,,69,801,female,BISOPROLOL FUMARATE,suspect,Drug ineffective,recovered/resolved,serious,,1,,,,spontaneous
+10005811,20241127,united states,,99,801,female,BISOPROLOL FUMARATE,suspect,Syncope,recovered/resolved,serious,,,,,,spontaneous
+10005818,20250515,united kingdom,,38,801,male,BISOPROLOL FUMARATE,suspect,Cerebral haemorrhage,unknown,serious,,1,,,,spontaneous
+10005824,20241125,japan,,62,801,male,BISOPROLOL FUMARATE,suspect,Drug ineffective,fatal,serious,1,,,,1,other
+10005835,20250215,united kingdom,,65,801,female,BISOPROLOL FUMARATE,suspect,Bronchospasm,not recovered/not resolved,serious,,,,,,spontaneous
+10005840,20240916,australia,,45,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,1,,,,spontaneous
+10005846,20240716,italy,,72,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,not recovered/not resolved,serious,,1,,,1,spontaneous
+10005853,20241207,canada,,46,801,female,BISOPROLOL FUMARATE,suspect,Depression,recovered/resolved,serious,,,,,,spontaneous
+10005860,20250130,italy,,74,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovering/resolving,serious,,1,,,,spontaneous
+10005870,20250408,italy,,64,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,unknown,serious,,,,,1,spontaneous
+10005873,20250324,united states,,74,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,,,,1,spontaneous
+10005880,20250323,united states,,64,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,not recovered/not resolved,serious,,,,,,spontaneous
+10005880,20250323,canada,,64,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,not recovered/not resolved,serious,,,,,1,spontaneous
+10005887,20250504,united states,,80,801,female,BISOPROLOL FUMARATE,suspect,Off label use,recovering/resolving,serious,,,,,,spontaneous
+10005895,20240808,japan,,72,801,female,BISOPROLOL FUMARATE,suspect,Depression,fatal,serious,1,,,,1,report from study
+10005904,20241124,united states,,74,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,1,,,,spontaneous
+10005909,20250323,italy,,60,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,1,,,,spontaneous
+10005916,20250615,canada,,66,801,female,BISOPROLOL FUMARATE,suspect,Cerebral haemorrhage,recovered/resolved,serious,,1,,,1,spontaneous
+10005922,20250118,united states,,65,801,unknown,BISOPROLOL FUMARATE,suspect,Fatigue,unknown,serious,,,,,,spontaneous
+10005933,20250414,italy,,52,801,female,BISOPROLOL FUMARATE,suspect,Drug ineffective,unknown,serious,,,,,1,spontaneous
+10005936,20250202,japan,,54,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,not recovered/not resolved,serious,,,,,,spontaneous
+10005943,20250325,united kingdom,,68,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,not recovered/not resolved,serious,,1,,,,spontaneous
+10005952,20250218,germany,,45,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,not recovered/not resolved,serious,,1,,,,spontaneous
+10005961,20241021,united states,,83,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,unknown,serious,,,,,,spontaneous
+10005967,20250503,united states,,56,801,male,BISOPROLOL FUMARATE,suspect,Rash,not recovered/not resolved,serious,,1,,,1,spontaneous
+10005972,20250622,france,,58,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,fatal,serious,1,,1,,1,spontaneous
+10005979,20241104,germany,,73,801,male,BISOPROLOL FUMARATE,suspect,Atrioventricular block,unknown,serious,,,,,,spontaneous
+10005987,20241020,united states,,75,801,female,BISOPROLOL FUMARATE,suspect,Bronchospasm,recovered/resolved,serious,,,,,1,spontaneous
+10005995,20240902,united kingdom,,71,801,female,BISOPROLOL FUMARATE,suspect,Fall,not recovered/not resolved,serious,,,,,,spontaneous
+10005999,20250517,france,,78,801,female,BISOPROLOL FUMARATE,suspect,Dyspnoea,not recovered/not resolved,serious,,1,,,,spontaneous
+10006008,20250323,canada,,58,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,not recovered/not resolved,serious,,,,,,spontaneous
+10006015,20250616,united states,,57,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,unknown,serious,,,,,1,spontaneous
+10006021,20241118,united states,,60,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,recovering/resolving,serious,,1,,,1,spontaneous
+10006030,20250210,united states,,66,801,male,BISOPROLOL FUMARATE,suspect,Nausea,unknown,serious,,1,,,,spontaneous
+10006037,20241024,united states,,73,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,,,,,spontaneous
+10006042,20250524,united states,,53,801,male,BISOPROLOL FUMARATE,suspect,Syncope,recovering/resolving,serious,,,,,,spontaneous
+10006049,20250223,germany,,77,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,unknown,serious,,,,,1,spontaneous
+10006049,20250223,canada,,77,801,female,BISOPROLOL FUMARATE,suspect,Hyperkalaemia,unknown,serious,,1,,,1,report from study
+10006059,20250208,canada,,64,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,recovered/resolved,serious,,1,,,1,spontaneous
+10006066,20240705,france,,47,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,not recovered/not resolved,serious,,1,1,,1,spontaneous
+10006072,20250206,canada,,78,801,female,BISOPROLOL FUMARATE,suspect,Syncope,recovered/resolved with sequelae,serious,,,,,1,spontaneous
+10006080,20250514,spain,,57,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,recovering/resolving,serious,,1,,,,spontaneous
+10006084,20240806,japan,,83,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,recovered/resolved,serious,,1,,,1,spontaneous
+10006091,20250629,italy,,89,801,male,BISOPROLOL FUMARATE,suspect,Dyspnoea,not recovered/not resolved,serious,,,,,,other
+10006100,20240709,united states,,87,801,female,BISOPROLOL FUMARATE,suspect,Death,fatal,serious,1,,,,1,spontaneous
+10006108,20250111,united states,,50,801,male,BISOPROLOL FUMARATE,suspect,Syncope,recovered/resolved,serious,,1,,,1,spontaneous
+10006113,20250124,united states,,84,801,male,BISOPROLOL FUMARATE,suspect,Atrioventricular block,not recovered/not resolved,serious,,,,,1,spontaneous
+10006121,20250612,italy,,78,801,male,BISOPROLOL FUMARATE,suspect,Fall,recovered/resolved,serious,,,,,,other
+10006127,20240905,united states,,53,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,unknown,serious,,,,,1,spontaneous
+10006133,20241205,germany,,80,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,unknown,serious,,1,,,,other
+10006142,20250610,united states,,73,801,female,BISOPROLOL FUMARATE,suspect,Syncope,unknown,serious,,1,,,1,spontaneous
+10006149,20241026,canada,,74,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,not recovered/not resolved,serious,,1,,,1,spontaneous
+10006155,20240829,united states,,78,801,female,BISOPROLOL FUMARATE,suspect,Death,recovered/resolved,serious,1,,,,,spontaneous
+10006162,20250302,italy,,69,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,,,,1,spontaneous
+10006170,20250324,united states,,81,801,female,BISOPROLOL FUMARATE,suspect,Drug ineffective,recovering/resolving,serious,,1,,,,spontaneous
+10006178,20241201,germany,,58,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,recovered/resolved,serious,,1,,,,spontaneous
+10006184,20250329,italy,,59,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovering/resolving,serious,,,,,,spontaneous
+10006189,20250119,united states,,69,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,not recovered/not resolved,serious,,1,,,1,spontaneous
+10006199,20241013,germany,,56,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,,,,,spontaneous
+10006204,20250220,united states,,58,801,female,BISOPROLOL FUMARATE,suspect,Drug ineffective,recovered/resolved,serious,,,,,,other
+10006212,20250604,france,,53,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,fatal,serious,1,,,,,spontaneous
+10006218,20250623,united kingdom,,70,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,,,1,,report from study
+10006218,20250623,japan,,70,801,male,BISOPROLOL FUMARATE,suspect,Syncope,recovered/resolved,serious,,,,,,spontaneous
+10006225,20240916,italy,,65,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,fatal,serious,1,,,1,,spontaneous
+10006230,20250117,united kingdom,,80,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,recovered/resolved,serious,,,,,1,other
+10006240,20250118,united states,,69,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,unknown,serious,,,,,,spontaneous
+10006247,20250213,japan,,57,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved,serious,,1,,,1,spontaneous
+10006252,20240916,spain,,86,801,male,BISOPROLOL FUMARATE,suspect,Bronchospasm,recovered/resolved,serious,,1,,,1,report from study
+10006258,20250626,spain,,76,801,male,BISOPROLOL FUMARATE,suspect,Bronchospasm,recovering/resolving,serious,,1,,,,spontaneous
+10006265,20241011,united kingdom,,61,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,,,,1,spontaneous
+10006272,20250104,united states,,65,801,male,BISOPROLOL FUMARATE,suspect,Fall,not recovered/not resolved,serious,,,,,,other
+10006279,20250103,united states,,99,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovering/resolving,serious,,,,,1,spontaneous
+10006289,20240928,united states,,94,801,female,BISOPROLOL FUMARATE,suspect,Bronchospasm,recovering/resolving,serious,,1,,,,spontaneous
+10006295,20250611,germany,,68,801,female,BISOPROLOL FUMARATE,suspect,Atrioventricular block,recovered/resolved,serious,,,,,1,spontaneous
+10006301,20240702,united states,,85,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,fatal,serious,1,,,,,spontaneous
+10006309,20240824,germany,,55,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,1,,,,spontaneous
+10006315,20250212,united states,,74,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,1,,,1,spontaneous
+10006324,20250101,united kingdom,,75,801,female,BISOPROLOL FUMARATE,suspect,Dyspnoea,recovered/resolved,serious,,1,,,,report from study
+10006328,20250201,australia,,79,801,female,BISOPROLOL FUMARATE,suspect,Fall,fatal,serious,1,,,,1,spontaneous
+10006338,20240905,united states,,76,801,female,BISOPROLOL FUMARATE,suspect,Syncope,recovered/resolved,serious,,1,,,,other
+10006346,20250320,united states,,62,801,female,BISOPROLOL FUMARATE,suspect,Dyspnoea,not recovered/not resolved,serious,,,,,,spontaneous
+10006353,20240823,japan,,90,801,female,BISOPROLOL FUMARATE,suspect,Dyspnoea,recovered/resolved,serious,,,,,1,spontaneous
+10006357,20241211,spain,,77,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,unknown,serious,,,,1,,spontaneous
+10006363,20250430,united states,,76,801,female,BISOPROLOL FUMARATE,suspect,Syncope,recovered/resolved,serious,,,,,,report from study
+10006372,20250303,japan,,92,801,male,BISOPROLOL FUMARATE,suspect,Nausea,recovering/resolving,serious,,1,,,1,spontaneous
+10006377,20240718,united states,,76,801,female,BISOPROLOL FUMARATE,suspect,Cardiac failure,recovered/resolved,serious,,1,,,1,other
+10006387,20250604,united states,,70,801,female,BISOPROLOL FUMARATE,suspect,Atrioventricular block,recovered/resolved,serious,,1,,,,spontaneous
+10006387,20250604,united states,,70,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,1,,,1,report from study
+10006392,20250122,united states,,61,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,recovering/resolving,serious,,,,,1,spontaneous
+10006398,20250614,italy,,82,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved,serious,,,,,1,report from study
+10006409,20240826,japan,,83,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,recovering/resolving,serious,,,,,,report from study
+10006412,20241029,united kingdom,,67,801,female,BISOPROLOL FUMARATE,suspect,Hyperkalaemia,fatal,serious,1,,,,,spontaneous
+10006422,20250305,canada,,47,801,female,BISOPROLOL FUMARATE,suspect,Nausea,fatal,serious,1,,,,,spontaneous
+10006430,20250307,germany,,39,801,female,BISOPROLOL FUMARATE,suspect,Bronchospasm,recovered/resolved,serious,,1,,1,,spontaneous
+10006435,20250611,italy,,65,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,unknown,serious,,1,,,,spontaneous
+10006441,20250104,united kingdom,,58,801,male,BISOPROLOL FUMARATE,suspect,Drug ineffective,recovered/resolved,serious,,1,,,1,spontaneous
+10006448,20250621,france,,55,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovering/resolving,serious,,1,,,,spontaneous
+10006457,20241118,united kingdom,,84,801,female,BISOPROLOL FUMARATE,suspect,Rash,not recovered/not resolved,serious,,,,,,spontaneous
+10006465,20250202,united states,,56,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,,,,1,other
+10006471,20241228,united states,,39,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,1,,,1,spontaneous
+10006476,20250416,germany,,72,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,1,,,1,spontaneous
+10006486,20250616,italy,,99,801,male,BISOPROLOL FUMARATE,suspect,Fall,unknown,serious,,,,,1,spontaneous
+10006489,20250511,united states,,22,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,1,,,,report from study
+10006499,20250119,japan,,90,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,recovering/resolving,serious,,1,,,,spontaneous
+10006507,20250123,france,,83,801,female,BISOPROLOL FUMARATE,suspect,Headache,unknown,serious,,,,1,,spontaneous
+10006510,20250105,germany,,91,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,not recovered/not resolved,serious,,,,,,spontaneous
+10006521,20250325,united states,,72,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,recovered/resolved,serious,,,,,,spontaneous
+10006525,20241016,united kingdom,,69,801,female,BISOPROLOL FUMARATE,suspect,Nausea,not recovered/not resolved,serious,,,,,,spontaneous
+10006535,20250501,australia,,68,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,unknown,serious,,,,,1,spontaneous
+10006541,20250629,canada,,77,801,female,BISOPROLOL FUMARATE,suspect,Headache,not recovered/not resolved,serious,,1,,,,spontaneous
+10006545,20240906,united kingdom,,49,801,male,BISOPROLOL FUMARATE,suspect,Cardiac failure,recovered/resolved,serious,,,,,,spontaneous
+10006552,20241027,italy,,64,801,female,BISOPROLOL FUMARATE,suspect,Dyspnoea,recovering/resolving,serious,,,1,,,spontaneous
+10006552,20241027,italy,,64,801,female,BISOPROLOL FUMARATE,suspect,Fall,recovering/resolving,serious,,,,,1,spontaneous
+10006562,20250207,germany,,68,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,fatal,serious,1,,,,,spontaneous
+10006570,20250210,france,,99,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved with sequelae,serious,,1,,,,spontaneous
+10006573,20250530,germany,,79,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,1,,,,spontaneous
+10006581,20240913,united states,,89,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved,serious,,1,1,,,spontaneous
+10006591,20240922,united states,,66,801,female,BISOPROLOL FUMARATE,suspect,Cardiac failure,recovering/resolving,serious,,,,,1,spontaneous
+10006596,20240712,japan,,75,801,female,BISOPROLOL FUMARATE,suspect,Bronchospasm,recovering/resolving,serious,,,,,1,spontaneous
+10006602,20241211,spain,,61,801,male,BISOPROLOL FUMARATE,suspect,Drug ineffective,recovered/resolved,serious,,,,,,spontaneous
+10006608,20240806,united states,,82,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,1,,,,spontaneous
+10006619,20241230,united states,,41,801,male,BISOPROLOL FUMARATE,suspect,Dyspnoea,recovered/resolved,serious,,1,,,,spontaneous
+10006624,20250531,united kingdom,,77,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,not recovered/not resolved,serious,,,,,1,spontaneous
+10006633,20240903,canada,,83,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,fatal,serious,1,,,,1,spontaneous
+10006638,20250407,united states,,69,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,unknown,serious,,,,,,spontaneous
+10006645,20241230,spain,,75,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,unknown,serious,,1,,,,other
+10006653,20250325,france,,55,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,not recovered/not resolved,serious,,1,,,,spontaneous
+10006659,20241019,united states,,82,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,1,,,1,spontaneous
+10006666,20240813,united states,,74,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,unknown,serious,,1,,,,spontaneous
+10006674,20240718,united states,,80,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved,serious,,1,,,,spontaneous
+10006678,20250323,united states,,77,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,not recovered/not resolved,serious,,,,,,spontaneous
+10006685,20250624,united states,,88,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,1,1,,,spontaneous
+10006694,20250528,canada,,63,801,male,BISOPROLOL FUMARATE,suspect,Drug ineffective,unknown,serious,,1,,,1,spontaneous
+10006701,20250315,united states,,87,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,1,,,,spontaneous
+10006709,20240921,united states,,52,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,1,,,,spontaneous
+10006713,20250515,united states,,62,801,male,BISOPROLOL FUMARATE,suspect,Acute kidney injury,unknown,serious,,,,,,spontaneous
+10006720,20241005,united kingdom,,53,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved,non-serious,,,,,,report from study
+10006720,20241005,united states,,53,801,male,BISOPROLOL FUMARATE,suspect,Dyspnoea,recovered/resolved,non-serious,,,,,,spontaneous
+10006728,20240905,france,,68,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovering/resolving,serious,,,,,,report from study
+10006734,20250210,japan,,54,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved with sequelae,serious,,1,,,1,spontaneous
+10006743,20241015,france,,55,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,not recovered/not resolved,serious,,,1,,1,other
+10006749,20241228,france,,67,801,female,BISOPROLOL FUMARATE,suspect,Cerebral haemorrhage,recovered/resolved,serious,,,,,1,report from study
+10006755,20250120,united states,,92,801,male,BISOPROLOL FUMARATE,suspect,Fatigue,recovering/resolving,serious,,,,,1,spontaneous
+10006766,20250628,united kingdom,,58,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,,,,1,spontaneous
+10006771,20240704,united kingdom,,50,801,unknown,BISOPROLOL FUMARATE,suspect,Dyspnoea,not recovered/not resolved,serious,,1,,,,spontaneous
+10006780,20250622,united states,,39,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,,,,1,spontaneous
+10006784,20250602,france,,42,801,unknown,BISOPROLOL FUMARATE,suspect,Rash,recovering/resolving,serious,,1,,,1,spontaneous
+10006790,20250207,united states,,79,801,female,BISOPROLOL FUMARATE,suspect,Drug ineffective,recovered/resolved,serious,,1,,,,spontaneous
+10006798,20241128,united states,,49,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovering/resolving,serious,,,,,,spontaneous
+10006804,20250125,united states,,60,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,,,,,spontaneous
+10006811,20250128,united states,,58,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,recovered/resolved,serious,,,,,,spontaneous
+10006821,20250302,united kingdom,,71,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,,,1,1,spontaneous
+10006828,20250107,germany,,65,801,female,BISOPROLOL FUMARATE,suspect,Nausea,not recovered/not resolved,serious,,,,,,other
+10006833,20250607,united states,,78,801,male,BISOPROLOL FUMARATE,suspect,Bronchospasm,recovered/resolved,serious,,,,,,spontaneous
+10006842,20241016,japan,,69,801,female,BISOPROLOL FUMARATE,suspect,Depression,unknown,serious,,,,,,spontaneous
+10006848,20241228,germany,,56,801,female,BISOPROLOL FUMARATE,suspect,Atrioventricular block,unknown,serious,,,,1,1,spontaneous
+10006854,20250314,italy,,70,801,unknown,BISOPROLOL FUMARATE,suspect,Dizziness,recovered/resolved,serious,,,,,,spontaneous
+10006864,20250109,united states,,73,801,male,BISOPROLOL FUMARATE,suspect,Drug ineffective,recovered/resolved,serious,,1,1,,,spontaneous
+10006868,20240812,united states,,68,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,fatal,serious,1,,,,,spontaneous
+10006875,20250217,canada,,80,801,female,BISOPROLOL FUMARATE,suspect,Death,recovered/resolved with sequelae,serious,1,,,,,spontaneous
+10006884,20250516,japan,,51,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,,,,,spontaneous
+10006892,20250606,australia,,65,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,fatal,serious,1,,,,1,spontaneous
+10006892,20250606,france,,65,801,female,BISOPROLOL FUMARATE,suspect,Atrioventricular block,fatal,serious,1,,,,,spontaneous
+10006897,20250406,spain,,47,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,1,,,,other
+10006905,20250605,united states,,54,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,fatal,serious,1,,,,,spontaneous
+10006911,20241010,united states,,80,801,male,BISOPROLOL FUMARATE,suspect,Cardiac failure,recovered/resolved,serious,,,,,,spontaneous
+10006917,20250428,canada,,66,801,male,BISOPROLOL FUMARATE,suspect,Dizziness,not recovered/not resolved,serious,,,,,,report from study
+10006924,20250127,united kingdom,,65,801,male,BISOPROLOL FUMARATE,suspect,Syncope,recovered/resolved,serious,,1,,,,spontaneous
+10006931,20250413,united states,,71,801,male,BISOPROLOL FUMARATE,suspect,Dyspnoea,recovered/resolved,serious,,,1,1,,spontaneous
+10006941,20240824,united states,,83,801,male,BISOPROLOL FUMARATE,suspect,Hyperkalaemia,fatal,serious,1,,,,1,spontaneous
+10006947,20240908,france,,86,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovered/resolved,serious,,,,,1,spontaneous
+10006955,20250131,united states,,75,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,recovered/resolved,serious,,1,,,1,other
+10006962,20250614,united kingdom,,63,801,male,BISOPROLOL FUMARATE,suspect,Bradycardia,unknown,serious,,,,,,spontaneous
+10006966,20250115,united states,,68,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,not recovered/not resolved,serious,,1,,,1,report from study
+10006976,20250204,united states,,47,801,female,BISOPROLOL FUMARATE,suspect,Bronchospasm,recovered/resolved,serious,,1,,,,spontaneous
+10006980,20250623,united states,,64,801,female,BISOPROLOL FUMARATE,suspect,Bronchospasm,recovered/resolved,serious,,1,,,1,spontaneous
+10006987,20250102,italy,,80,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,recovered/resolved,serious,,,,,,spontaneous
+10006994,20250630,united states,,58,801,female,BISOPROLOL FUMARATE,suspect,Headache,recovered/resolved,serious,,,1,,1,spontaneous
+10007000,20250528,japan,,65,801,female,BISOPROLOL FUMARATE,suspect,Syncope,recovered/resolved,serious,,1,,,1,spontaneous
+10007007,20250120,united states,,89,801,female,BISOPROLOL FUMARATE,suspect,Headache,unknown,serious,,,,,1,spontaneous
+10007016,20250311,united states,,53,801,female,BISOPROLOL FUMARATE,suspect,Depression,recovered/resolved,serious,,1,,,1,spontaneous
+10007023,20250628,united kingdom,,69,801,unknown,BISOPROLOL FUMARATE,suspect,Fatigue,not recovered/not resolved,serious,,,,,1,spontaneous
+10007032,20240704,france,,76,801,female,BISOPROLOL FUMARATE,suspect,Dyspnoea,not recovered/not resolved,serious,,,,,1,spontaneous
+10007038,20240904,germany,,82,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,recovering/resolving,serious,,1,,,1,spontaneous
+10007043,20250503,australia,,63,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved,serious,,,,,1,spontaneous
+10007051,20250628,australia,,66,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovering/resolving,serious,,1,,,,spontaneous
+10007056,20250213,united states,,71,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,recovering/resolving,serious,,1,,,,spontaneous
+10007056,20250213,united kingdom,,71,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,recovering/resolving,serious,,1,,,,spontaneous
+10007063,20250603,australia,,68,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,not recovered/not resolved,serious,,,,,,spontaneous
+10007074,20241009,united states,,70,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,not recovered/not resolved,serious,,1,,,1,other
+10007077,20250302,germany,,58,801,female,BISOPROLOL FUMARATE,suspect,Atrioventricular block,unknown,serious,,,,,,spontaneous
+10007088,20250201,italy,,72,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,recovering/resolving,serious,,1,,,1,spontaneous
+10007093,20240923,japan,,73,801,female,BISOPROLOL FUMARATE,suspect,Fatigue,unknown,serious,,1,,,1,spontaneous
+10007099,20250206,france,,33,801,male,BISOPROLOL FUMARATE,suspect,Hypotension,recovered/resolved with sequelae,serious,,1,,,1,spontaneous
+10007109,20250413,italy,,72,801,male,BISOPROLOL FUMARATE,suspect,Hyperkalaemia,unknown,serious,,1,,,,spontaneous
+10007112,20250207,united states,,78,801,female,BISOPROLOL FUMARATE,suspect,Cardiac failure,recovered/resolved,serious,,,,,1,spontaneous
+10007122,20240710,canada,,73,801,female,BISOPROLOL FUMARATE,suspect,Acute kidney injury,recovered/resolved,serious,,1,1,,,spontaneous
+10007126,20241112,canada,,55,801,female,BISOPROLOL FUMARATE,suspect,Dizziness,unknown,serious,,,,,,spontaneous
+10007133,20250218,germany,,67,801,female,BISOPROLOL FUMARATE,suspect,Bradycardia,unknown,serious,,,,,,spontaneous
+10007144,20250212,japan,,59,801,female,BISOPROLOL FUMARATE,suspect,Hypotension,unknown,serious,,1,,,,spontaneous
+10007148,20241209,united states,,75,801,male,BISOPROLOL FUMARATE,suspect,Bronchospasm,recovered/resolved with sequelae,serious,,1,,,,spontaneous
+10007157,20250202,united states,,74,801,male,BISOPROLOL FUMARATE,suspect,Drug ineffective,recovering/resolving,serious,,1,,,,spontaneous
+10007163,20241225,canada,,83,801,female,BISOPROLOL FUMARATE,suspect,Atrioventricular block,not recovered/not resolved,serious,,,,,,report from study

@@ -1,0 +1,87 @@
+{
+  "report_type": "PADER",
+  "version": "0.1.0",
+  "title": "Periodic Adverse Drug Experience Report (PADER) - simplified",
+  "product": "Bisoprolol fumarate",
+  "regulatory_basis": "Adapted from 21 CFR 314.80 periodic reporting; ICH E2D terminology.",
+  "model": "google/gemini-3-flash-preview",
+  "global_instructions": [
+    "You are drafting one section of a pharmacovigilance periodic safety report for a regulatory authority.",
+    "You may state ONLY what the supplied evidence figures support. Never estimate, extrapolate, round differently, or introduce a number that is not in the evidence.",
+    "Never write a safety conclusion (e.g. 'no new safety concerns were identified', 'the benefit-risk profile remains favourable') unless an evidence item explicitly establishes it. If asked to comment on something the evidence does not cover, state that the dataset does not support a conclusion.",
+    "Do not diagnose, speculate on causality, or compare with external literature or background incidence - none of that is in the evidence.",
+    "Cite every figure with the evidence id in square brackets immediately after the sentence containing it, e.g. [E:total_cases].",
+    "Tone: neutral, factual, regulatory. No marketing language, no reassurance, no hedging adjectives.",
+    "Output GitHub-flavoured Markdown body text only: no section heading, no preamble, no bullet lists unless the section instruction asks for them."
+  ],
+  "params": {
+    "top": 10
+  },
+  "sections": [
+    {
+      "id": "reporting_period",
+      "title": "1. Reporting Period and Report Scope",
+      "requires": ["reporting_period", "total_cases", "data_quality"],
+      "instructions": "State the reporting period covered, the product, the number of source rows and unique cases, and the report basis. Add one sentence on data completeness limitations if the validation evidence lists any. 2-4 sentences.",
+      "max_words": 130
+    },
+    {
+      "id": "narrative_summary",
+      "title": "2. Narrative Summary and Analysis",
+      "requires": ["total_cases", "seriousness_split", "top_reactions", "reporting_period"],
+      "instructions": "Summarise the case volume, the serious/non-serious split with percentages, and the most frequently reported reactions. Do not interpret clinical significance. 3-5 sentences.",
+      "max_words": 160
+    },
+    {
+      "id": "summary_of_cases",
+      "title": "3. Summary Analysis of Cases",
+      "requires": ["total_cases", "by_age_band", "by_sex", "by_country", "age_summary"],
+      "instructions": "Describe the demographic distribution: age bands, sex, and the leading reporting countries. Name only the top three countries in prose; the full table is rendered separately. Note the proportion with unknown/missing values where present. 3-5 sentences.",
+      "max_words": 170
+    },
+    {
+      "id": "reaction_analysis",
+      "title": "4. Reaction / Adverse Event Analysis",
+      "requires": ["top_reactions", "top_serious_reactions", "outcomes"],
+      "instructions": "Compare the overall reaction profile with the reaction profile in serious cases, and summarise reported outcomes. State plainly where the two lists agree or differ. Do not assign causality. 3-5 sentences.",
+      "max_words": 170
+    },
+    {
+      "id": "serious_cases",
+      "title": "5. Serious Cases and 15-Day Alert Reports",
+      "requires": ["seriousness_split", "seriousness_criteria", "fatal_cases", "top_serious_reactions"],
+      "instructions": "State the number of serious cases, the breakdown by seriousness criterion (noting criteria overlap), and the number of fatal cases. State explicitly that expedited 15-day reportability cannot be determined from this dataset because it contains no listedness/expectedness or submission-date fields. 3-5 sentences.",
+      "max_words": 170
+    },
+    {
+      "id": "trends",
+      "title": "6. Trends and Important Observations",
+      "requires": ["monthly_trend", "top_reactions", "seriousness_split"],
+      "instructions": "Describe the month-by-month reporting pattern, naming the highest and lowest months and the first-half vs second-half comparison provided in the evidence notes. Describe the pattern as reporting-frequency observation only, not as a change in risk. End by stating what would be required to interpret the trend (exposure/denominator data), which this dataset lacks. 3-5 sentences.",
+      "max_words": 170
+    },
+    {
+      "id": "history_of_actions",
+      "title": "7. History of Actions Taken",
+      "requires": [],
+      "instructions": "The evidence set contains no regulatory actions, label changes, or risk-communication records. Write two sentences stating that no such information is present in the source dataset and that this section therefore cannot be completed from the data available; name the inputs that would be needed (label change history, regulatory correspondence, risk management plan updates).",
+      "max_words": 90
+    },
+    {
+      "id": "case_index",
+      "title": "8. Case Index / Listing",
+      "requires": ["case_index", "total_cases"],
+      "instructions": "One or two sentences describing what the listing below contains and where the full listing is exported. No analysis.",
+      "max_words": 70
+    }
+  ],
+  "tables": {
+    "reporting_period": ["data_quality"],
+    "narrative_summary": ["seriousness_split", "top_reactions"],
+    "summary_of_cases": ["by_age_band", "by_sex", "by_country"],
+    "reaction_analysis": ["top_serious_reactions", "outcomes"],
+    "serious_cases": ["seriousness_criteria"],
+    "trends": ["monthly_trend"],
+    "case_index": ["case_index"]
+  }
+}
