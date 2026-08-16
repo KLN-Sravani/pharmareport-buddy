@@ -26,3 +26,21 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
+---
+
+## 👤 Human Control & Review Workflow
+
+The pipeline enforces a **Human-in-the-Loop Gate** before any report is finalized:
+
+* **Interactive Review Interface:** Reviewers can inspect every generated section side-by-side with its supporting data.
+* **Granular Section Decisions:** Each section can be individually **Approved** or **Flagged for rework** with reviewer comments attached.
+* **Evidence Tracing & Verification:** Generated sentences include clickable evidence markers (e.g., `[E:reporting_period]`, `[E:total_cases]`) mapping directly to underlying verified Python aggregations under the **EVIDENCE USED BY THIS SECTION** panel.
+* **State Persistence:** Reviewer actions are tracked in the frontend and synchronized back to the Python backend via the authoritative review script (`python -m safety_reporting.review`).
+
+---
+
+## ⚠️ Known Limitations
+
+* **Single-Threaded Section Processing:** Version 0 processes sections sequentially. For multi-report batch processing at scale, an asynchronous worker queue (e.g., `asyncio` or Celery) should be implemented.
+* **Static Schema Mapping:** Column mapping between raw CSV inputs and analytical aggregators is tailored to the Bisoprolol dataset structure; expanding to dynamic schemas requires a configurable schema mapping layer.
+* **Browser-Local Session State:** In the prototype, pending review actions are held in browser memory before being committed to the persistent storage layer.
