@@ -46,7 +46,13 @@ type Section = {
 
 const bundle = bundleJson as unknown as {
   spec: { title: string; report_type: string; product: string; version: string; sections: { id: string }[] };
-  provenance: Record<string, unknown> & { dataset: Record<string, unknown> };
+  provenance: {
+    dataset: { source_file: string; sha256: string; rows: number; unique_cases: number };
+    spec_sha256: string;
+    model: string;
+    generated_at: string;
+    pipeline_version: string;
+  };
   evidence: Evidence[];
   sections: Record<string, Section>;
 };
@@ -74,7 +80,7 @@ function StatusPill({ status }: { status: string }) {
 function EvidenceValue({ item }: { item: Evidence }) {
   if (item.kind === "table" && Array.isArray(item.value) && item.value.length > 0) {
     const rows = item.value as Record<string, unknown>[];
-    const cols = Object.keys(rows[0]);
+    const cols = Object.keys(rows[0] as Record<string, unknown>);
     return (
       <div className="overflow-x-auto rounded-md border border-border">
         <table className="w-full text-xs">
@@ -111,12 +117,15 @@ function EvidenceValue({ item }: { item: Evidence }) {
 
 function ReviewConsole() {
   const sectionIds = bundle.spec.sections.map((s) => s.id);
-  const [active, setActive] = useState(sectionIds[0]);
+  const [active, setActive] = useState<string>(sectionIds[0] as string);
   const [state, setState] = useState<Record<string, { status: string; comment: string }>>(() =>
     Object.fromEntries(
       sectionIds.map((id) => [
         id,
-        { status: bundle.sections[id].review.status, comment: bundle.sections[id].review.comment },
+        {
+          status: (bundle.sections[id] as Section).review.status,
+          comment: (bundle.sections[id] as Section).review.comment,
+        },
       ]),
     ),
   );
@@ -127,14 +136,15 @@ function ReviewConsole() {
     () => Object.fromEntries(bundle.evidence.map((e) => [e.id, e])) as Record<string, Evidence>,
     [],
   );
-  const section = bundle.sections[active];
-  const approved = sectionIds.filter((id) => state[id].status === "approved").length;
+  const section = bundle.sections[active] as Section;
+  const current = state[active] as { status: string; comment: string };
+  const approved = sectionIds.filter((id) => state[id]?.status === "approved").length;
 
   const setStatus = (status: string) =>
-    setState((s) => ({ ...s, [active]: { ...s[active], status } }));
+    setState((s) => ({ ...s, [active]: { ...(s[active] as { status: string; comment: string }), status } }));
 
   // highlight [E:id] citations inline
-  const parts = section.text.split(/(\[E:[a-z_]+(?:,\s*E:[a-z_]+)*\])/g);
+  const parts: string[] = section.text.split(/(\[E:[a-z_]+(?:,\s*E:[a-z_]+)*\])/g);
 
   return (
     <main className="min-h-screen bg-background text-foreground">
@@ -145,9 +155,9 @@ function ReviewConsole() {
           </p>
           <h1 className="mt-2 text-2xl font-semibold tracking-tight">{bundle.spec.title}</h1>
           <p className="mt-1 text-sm text-muted-foreground">
-            {bundle.spec.product} · {String(bundle.provenance.dataset.rows)} rows ·{" "}
-            {String(bundle.provenance.dataset.unique_cases)} unique cases · model{" "}
-            <code className="text-xs">{String(bundle.provenance.model)}</code>
+            {bundle.spec.product} · {bundle.provenance.dataset.rows} rows ·{" "}
+            {bundle.provenance.dataset.unique_cases} unique cases · model{" "}
+            <code className="text-xs">{bundle.provenance.model}</code>
           </p>
           <p className="mt-3 text-xs text-muted-foreground">
             {approved} of {sectionIds.length} sections approved. Nothing is final until every section is
@@ -168,9 +178,9 @@ function ReviewConsole() {
                   : "border-transparent text-muted-foreground hover:bg-muted"
               }`}
             >
-              <span className="block truncate">{bundle.sections[id].title}</span>
+              <span className="block truncate">{(bundle.sections[id] as Section).title}</span>
               <span className="mt-1 block">
-                <StatusPill status={state[id].status} />
+                <StatusPill status={state[id]?.status ?? "pending"} />
               </span>
             </button>
           ))}
@@ -180,11 +190,11 @@ function ReviewConsole() {
           <article className="rounded-lg border border-border bg-card p-6">
             <div className="flex flex-wrap items-center justify-between gap-3">
               <h2 className="text-lg font-semibold">{section.title}</h2>
-              <StatusPill status={state[active].status} />
+              <StatusPill status={current.status} />
             </div>
 
             <p className="mt-4 whitespace-pre-wrap text-[15px] leading-relaxed">
-              {parts.map((p, i) =>
+              {parts.map((p: string, i: number) =>
                 p.startsWith("[E:") ? (
                   <button
                     key={i}
@@ -201,7 +211,7 @@ function ReviewConsole() {
 
             {section.findings.length > 0 && (
               <ul className="mt-5 space-y-1.5">
-                {section.findings.map((f, i) => (
+                {section.findings.map((f: Finding, i: number) => (
                   <li
                     key={i}
                     className={`rounded-md border px-3 py-2 text-xs ${
@@ -231,9 +241,12 @@ function ReviewConsole() {
                 Flag for rework
               </button>
               <input
-                value={state[active].comment}
+                value={current.comment}
                 onChange={(e) =>
-                  setState((s) => ({ ...s, [active]: { ...s[active], comment: e.target.value } }))
+                  setState((s) => ({
+                    ...s,
+                    [active]: { ...(s[active] as { status: string; comment: string }), comment: e.target.value },
+                  }))
                 }
                 placeholder="Reviewer comment"
                 className="min-w-[200px] flex-1 rounded-md border border-input bg-background px-3 py-1.5 text-sm outline-none focus:border-accent"
@@ -251,8 +264,8 @@ function ReviewConsole() {
               Evidence used by this section
             </h3>
             <div className="mt-4 space-y-3">
-              {section.evidence_ids.map((id) => {
-                const item = evidenceById[id];
+              {section.evidence_ids.map((id: string) => {
+                const item = evidenceById[id] as Evidence;
                 const open = openEvidence === id;
                 return (
                   <div key={id} className="rounded-md border border-border">
@@ -338,10 +351,10 @@ function ReviewConsole() {
             <dl className="mt-3 grid gap-x-8 gap-y-1.5 text-xs sm:grid-cols-2">
               {Object.entries({
                 ...bundle.provenance.dataset,
-                spec_sha256: String(bundle.provenance.spec_sha256).slice(0, 16),
+                spec_sha256: bundle.provenance.spec_sha256.slice(0, 16),
                 model: bundle.provenance.model,
-                generated_at: bundle.provenance.generated_at,
-                pipeline_version: bundle.provenance.pipeline_version,
+                generated: bundle.provenance.generated_at,
+                pipeline: bundle.provenance.pipeline_version,
               }).map(([k, v]) => (
                 <div key={k} className="flex justify-between gap-4 border-b border-border/60 py-1">
                   <dt className="text-muted-foreground">{k.replace(/_/g, " ")}</dt>
