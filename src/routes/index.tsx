@@ -198,7 +198,11 @@ function ReviewConsole() {
                 p.startsWith("[E:") ? (
                   <button
                     key={i}
-                    onClick={() => setOpenEvidence(p.replace(/[[\]]/g, "").split(",")[0].replace("E:", "").trim())}
+                    onClick={() =>
+                      setOpenEvidence(
+                        (p.replace(/[[\]]/g, "").split(",")[0] ?? "").replace("E:", "").trim(),
+                      )
+                    }
                     className="mx-0.5 rounded bg-accent/12 px-1 py-0.5 align-baseline font-mono text-[11px] text-accent hover:bg-accent/20"
                   >
                     {p}
